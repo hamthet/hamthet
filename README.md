@@ -25,13 +25,83 @@ Profissional com aparato completo para trabalho remoto e presencial (Curitiba e 
 
 ### 💡 Portfólio & Conteúdo
 
-- [Instagram principal (projetos, arte & design)](https://www.instagram.com/hamthet/)
-- [TikTok: cultura visual, desafios e bastidores do processo criativo](https://www.tiktok.com/@hamthet)
-- [Medium: ensaios, textos criativos e pesquisa](https://hamthet.medium.com/)
-- [Instagram — Cisso Soluções Tecnológicas (soluções técnicas/segurança)](https://www.instagram.com/cissolucoestecnologicas/)
-- [Threads: reflexões, comunicação e neurodiversidade](https://www.threads.com/@hamthet)
-- [TikTok — Supersanidade (autoconhecimento, experiências humanas)](https://www.tiktok.com/@supersanidade)
-- [TikTok — Retorne Ao Makako (arte, expressão corporal, escultura)](https://www.tiktok.com/@retorneaomakako)
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Hamilton Junior — Portfólio & Hub</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Font Awesome CDN para ícones -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+  <style>
+    body { font-family: 'Segoe UI', Arial, sans-serif; background: #f9f9f9; color: #222; margin: 0; padding: 2em;}
+    h2 { margin-top: 2em; color: #5928e5;}
+    ul.links { list-style: none; padding: 0; margin-bottom: 2em;}
+    ul.links li { margin: 1em 0; }
+    a { text-decoration: none; color: #2d1950; font-size: 1.12em; }
+    .icon { width: 32px; display: inline-block; text-align: center; }
+    .fa-linkedin         { color: #0077b5; }
+    .fa-behance          { color: #1769ff; }
+    .fa-artstation       { color: #13aff0; }
+    .fa-tiktok           { color: #111; }
+    .fa-instagram        { color: #e4405f; }
+    .fa-medium           { color: #00ab6c; }
+    .hub-footer { margin-top: 3em; color:#999; font-size:0.95em;}
+  </style>
+</head>
+<body>
+  <h1>Hamilton Almeida Junior — <span style="font-weight:400;">Portfólio & Conteúdo</span></h1>
+
+  <h2>Profissional</h2>
+  <ul class="links">
+    <li>
+      <span class="icon"><i class="fab fa-linkedin"></i></span>
+      <a href="https://www.linkedin.com/in/hamthet/" target="_blank">Hamilton Junior | LinkedIn</a>
+    </li>
+    <li>
+      <span class="icon"><i class="fab fa-behance"></i></span>
+      <a href="https://www.behance.net/hamthet" target="_blank">Hamilton Junior | Behance</a>
+    </li>
+    <li>
+      <span class="icon"><i class="fab fa-artstation"></i></span>
+      <a href="https://www.artstation.com/hamthet" target="_blank">ArtStation - Hamilton Almeida Junior</a>
+    </li>
+    <li>
+      <span class="icon"><i class="fab fa-tiktok"></i></span>
+      <a href="https://www.tiktok.com/@supersanidade" target="_blank">Supersanidade (@supersanidade) | TikTok</a>
+    </li>
+    <li>
+      <span class="icon"><i class="fab fa-instagram"></i></span>
+      <a href="https://www.instagram.com/cissolucoestecnologicas/" target="_blank">Cisso Soluções Tecnológicas | Instagram</a>
+    </li>
+  </ul>
+
+  <h2>Pessoal</h2>
+  <ul class="links">
+    <li>
+      <span class="icon"><i class="fab fa-instagram"></i></span>
+      <a href="https://www.instagram.com/hamthet/" target="_blank">Instagram (@hamthet)</a>
+    </li>
+    <li>
+      <span class="icon"><i class="fab fa-tiktok"></i></span>
+      <a href="https://www.tiktok.com/@retorneaomakako" target="_blank">Retorneaomakako (@retorneaomakako) | TikTok</a>
+    </li>
+    <li>
+      <span class="icon"><i class="fab fa-tiktok"></i></span>
+      <a href="https://www.tiktok.com/@hamthet" target="_blank">Hamthet (@hamthet) | TikTok</a>
+    </li>
+    <li>
+      <span class="icon"><i class="fab fa-medium"></i></span>
+      <a href="https://hamthet.medium.com/" target="_blank">Medium</a>
+    </li>
+  </ul>
+
+  <div class="hub-footer">
+    &copy; 2025 Hamilton Almeida Junior &mdash; Todos os direitos reservados.
+  </div>
+</body>
+</html>
+
 
 ---
 
@@ -48,21 +118,21 @@ Profissional com aparato completo para trabalho remoto e presencial (Curitiba e 
 Almejo experiências que possam agregar em minha trajetória profissional:
 
 Fase 1: Posições de Curto Prazo
-Designer Gráfico (Júnior/Pleno)
-Motion Designer (Júnior)
-Artista 3D (Júnior)
-Designer de UI/UX (Júnior)
+ - Designer Gráfico (Júnior/Pleno)
+ - Motion Designer (Júnior)
+ - Artista 3D (Júnior)
+ - Designer de UI/UX (Júnior)
 
 Fase 2: Posições de Médio Prazo
-Modelador 3D (Foco em Personagens ou Hard Surface)
-Generalista 3D
-Solution Designer (Visual & Técnico)
-Technical Artist (Tech Artist)
+ - Modelador 3D (Foco em Personagens ou Hard Surface)
+ - Generalista 3D
+ - Solution Designer (Visual & Técnico)
+ - Technical Artist (Tech Artist)
 
 Fase 3: Posições de Longo Prazo
-Diretor de Arte
-Character Artist (Sênior)
-Coordenador de Projetos Criativos
+ - Diretor de Arte
+ - Character Artist (Sênior)
+ - Coordenador de Projetos Criativos
 Product Designer (Sênior)
 
 ---
