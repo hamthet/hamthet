@@ -1,6 +1,7 @@
 # Hamilton “Hamthet” Almeida Junior
 
 **Tecnologista em Design & Comunicação Visual**
+ | Design Technologist • Systems Architect • Technical Writer
 
 [📄 Download Currículo Completo (PDF)](CURRICULO102025Geral.pdf)
 
