@@ -47,7 +47,7 @@ I see myself as a bridge between **technology, design, processes, and people**, 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/hamthet)
 [![ArtStation](https://img.shields.io/badge/ArtStation-13aff0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/hamthet)
 [![Supersanidade TikTok](https://img.shields.io/badge/Supersanidade_TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@supersanidade)
-[![Cisso Solutions Instagram](https://img.shields.io/badge/Cisso_Solutions_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cissolucoestecnologicas/)
+[![CIS Tech Solutions Instagram](https://img.shields.io/badge/Cisso_Solutions_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cissolucoestecnologicas/)
 #### 👤 Personal
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hamthet/)
 [![Retorneaomakako TikTok](https://img.shields.io/badge/Retorneaomakako_TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@retorneaomakako)
