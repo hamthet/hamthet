@@ -9,18 +9,18 @@
 **English Communication Note:**
   
 - I am fully fluent and confident in written English (B2/C1 level).
- 
 - Spoken communication may be inconsistent at times, especially under stress, due to neurodivergence or physiological factors.
- 
 - I prefer written interviews or asynchronous communication for maximum clarity and professionalism.
 ---
 #### 🏷️ Work Modes & Availability
 [![Full-time](https://img.shields.io/badge/Full--time-0d47a1?style=for-the-badge)](#)
 [![Contract](https://img.shields.io/badge/Contract-039be5?style=for-the-badge)](#)
 [![Freelance](https://img.shields.io/badge/Freelance-43a047?style=for-the-badge)](#)
+
 [![Flexible Hours](https://img.shields.io/badge/Flexible%20Hours-ffd600?style=for-the-badge)](#)
 [![Remote](https://img.shields.io/badge/Remote-26a69a?style=for-the-badge)](#)
 [![Onsite](https://img.shields.io/badge/Onsite-8e24aa?style=for-the-badge)](#)
+
 [![Curitiba](https://img.shields.io/badge/Curitiba-388e3c?style=for-the-badge)](#)
 [![Pinhais](https://img.shields.io/badge/Pinhais-c62828?style=for-the-badge)](#)
 [![Piraquara](https://img.shields.io/badge/Piraquara-3949ab?style=for-the-badge)](#)
@@ -55,48 +55,52 @@ I see myself as a bridge between **technology, design, processes, and people**, 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://hamthet.medium.com/)
 ---
 ### 🎯 Opportunities
-- • **Technology:**
-  - ◦ Technical Project Coordinator
-  - ◦ Operations Analyst
-  - ◦ Corporate Support (N2)
-- • **Design (UI/UX, visual, product - junior)**
-- • **Digital Art & 3D**
-- • **Technical, creative, and research content production**
+- **Technology:**
+  - Technical Project Coordinator
+  - Operations Analyst
+  - Corporate Support (N2)
+- **Design (UI/UX, visual, product - junior)**
+- **Digital Art & 3D**
+- **Technical, creative, and research content production**
 
 I seek experiences that add value to my professional path:
 
 **Phase 1: Short-Term Positions**
-- • Junior/Pleno Graphic Designer
-- • Junior Motion Designer
-- • Junior 3D Artist
-- • Junior UI/UX Designer
+- Junior/Pleno Graphic Designer
+- Junior Motion Designer
+- Junior 3D Artist
+- Junior UI/UX Designer
 
 **Phase 2: Medium-Term Positions**
-- • 3D Modeler (Focus: Character or Hard Surface)
-- • Generalist 3D Artist
-- • Solution Designer (Visual & Technical)
-- • Technical Artist
+- 3D Modeler (Focus: Character or Hard Surface)
+- Generalist 3D Artist
+- Solution Designer (Visual & Technical)
+- Technical Artist
 
 **Phase 3: Long-Term Positions**
-- • Art Director
-- • Senior Character Artist
-- • Creative Project Coordinator
-- • Senior Product Designer
+- Art Director
+- Senior Character Artist
+- Creative Project Coordinator
+- Senior Product Designer
 
 > "Technology is the brush of the future; design is the universal language."
-> Turning complexity into beauty and accessibility is my purpose.
+> _Turning complexity into beauty and accessibility is my purpose._
 
 ---
-### 📫 Contact
+
+### 📫 Contact me
+
 Want to talk projects, collaborations or opportunities?
 Contact via [Instagram](https://www.instagram.com/hamthet/)
 
-[Sebd mail to](mailto:juniorahamilton@gmail.com) [juniorahamilton@gmail.com](mailto:juniorahamilton@gmail.com)
+<a href="mailto:juniorahamilton@gmail.com">Mail to juniorahamilton@gmail.com</a>
 
-**At the intersection of technology, design, and humanity, my mission is to transform complex challenges into visually elegant solutions and meaningful experiences.**
+**_At the intersection of technology, design, and humanity, my mission is to transform complex challenges into visually elegant solutions and meaningful experiences._**
 
 ---
+
 ### 🚀 Technology & Tools
+
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](#)
 [![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)](#)
 [![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)](#)
@@ -106,4 +110,4 @@ Contact via [Instagram](https://www.instagram.com/hamthet/)
 [![ZBrush](https://img.shields.io/badge/ZBrush-E0662D?style=for-the-badge)](#)
 [![Substance Painter](https://img.shields.io/badge/Substance_Painter-EA6C4D?style=for-the-badge)](#)
 
-I love exploring new tools and integrating technology with creativity in digital projects.
+_I love exploring new tools and integrating technology with creativity in digital projects._
