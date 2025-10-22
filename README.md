@@ -1,10 +1,10 @@
-# Hamilton “Hamthet” Almeida Junior
+# Hamilton "Hamthet" Almeida Junior
 
-**Tecnologista em Design & Comunicação Visual**
- | Design Technologist • Systems Architect • Technical Writer
+🇧🇷 **Português** | [🇺🇸 **Read in English**](READMEEnglish.md)
+
+**Tecnologista em Design & Comunicação Visual** | Design Technologist • Systems Architect • Technical Writer
 
 [📄 Download Currículo Completo (PDF)](CURRICULO102025Geral_Portuguese.pdf)
-
 
 #### 🏷️ Modalidades & Disponibilidade
 
@@ -49,17 +49,15 @@ Profissional com aparato completo para trabalho remoto e presencial, com possibi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamthet/)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/hamthet)
 [![ArtStation](https://img.shields.io/badge/ArtStation-13aff0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/hamthet)
-[![TikTok Supersanidade](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@supersanidade)
-[![Cisso Soluções Instagram](https://img.shields.io/badge/Instagram-c13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cissolucoestecnologicas/)
+[![TikTok Supersanidade](https://img.shields.io/badge/TikTok%20Supersanidade-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@supersanidade)
+[![Cisso Soluções Instagram](https://img.shields.io/badge/Cisso%20Soluções-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cissolucoestecnologicas/)
 
 #### 👤 Pessoal
 
-[![Instagram](https://img.shields.io/badge/Instagram-c13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hamthet/)
-[![TikTok Retorneaomakako](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@retorneaomakako)
-[![TikTok Hamthet](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@hamthet)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hamthet/)
+[![TikTok Retorneaomakako](https://img.shields.io/badge/TikTok%20Retorneaomakako-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@retorneaomakako)
+[![TikTok Hamthet](https://img.shields.io/badge/TikTok%20Hamthet-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@hamthet)
 [![Medium](https://img.shields.io/badge/Medium-00ab6c?style=for-the-badge&logo=medium&logoColor=white)](https://hamthet.medium.com/)
-
-
 
 ---
 
@@ -76,26 +74,38 @@ Profissional com aparato completo para trabalho remoto e presencial, com possibi
 Almejo experiências que possam agregar em minha trajetória profissional:
 
 Fase 1: Posições de Curto Prazo
- - Designer Gráfico (Júnior/Pleno)
- - Motion Designer (Júnior)
- - Artista 3D (Júnior)
- - Designer de UI/UX (Júnior)
+ 
+- Designer Gráfico (Júnior/Pleno)
+ 
+- Motion Designer (Júnior)
+ 
+- Artista 3D (Júnior)
+ 
+- Designer de UI/UX (Júnior)
 
 Fase 2: Posições de Médio Prazo
- - Modelador 3D (Foco em Personagens ou Hard Surface)
- - Generalista 3D
- - Solution Designer (Visual & Técnico)
- - Technical Artist (Tech Artist)
+ 
+- Modelador 3D (Foco em Personagens ou Hard Surface)
+ 
+- Generalista 3D
+ 
+- Solution Designer (Visual & Técnico)
+ 
+- Technical Artist (Tech Artist)
 
 Fase 3: Posições de Longo Prazo
- - Diretor de Arte
- - Character Artist (Sênior)
- - Coordenador de Projetos Criativos
- - Product Designer (Sênior)
+ 
+- Diretor de Arte
+ 
+- Character Artist (Sênior)
+ 
+- Coordenador de Projetos Criativos
+ 
+- Product Designer (Sênior)
 
 ---
 
-> “A tecnologia é o pincel do futuro, o design é a linguagem universal.”
+> "A tecnologia é o pincel do futuro, o design é a linguagem universal."
 > 
 > _Transformar o complexo em belo e acessível faz parte do meu propósito._
 
@@ -125,8 +135,4 @@ Entre em contato via [Instagram](https://www.instagram.com/hamthet/)
 [![ZBrush](https://img.shields.io/badge/ZBrush-222?style=for-the-badge&logoColor=white)](#)
 [![Substance Painter](https://img.shields.io/badge/Substance%20Painter-e94e1b?style=for-the-badge&logo=adobe&logoColor=white)](#)
 
-
 _Gosto de explorar novas ferramentas e integrar tecnologia com criatividade em projetos digitais._
-
-
-
