@@ -29,28 +29,30 @@ Profissional com aparato completo para trabalho remoto e presencial (Curitiba e 
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
-  <title>Hamilton Junior — Portfólio & Hub</title>
+  <title>Hamilton Junior — Portfólio & Redes</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <!-- Font Awesome CDN para ícones -->
+  <!-- Font Awesome para ícones -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
   <style>
-    body { font-family: 'Segoe UI', Arial, sans-serif; background: #f9f9f9; color: #222; margin: 0; padding: 2em;}
-    h2 { margin-top: 2em; color: #5928e5;}
-    ul.links { list-style: none; padding: 0; margin-bottom: 2em;}
-    ul.links li { margin: 1em 0; }
-    a { text-decoration: none; color: #2d1950; font-size: 1.12em; }
-    .icon { width: 32px; display: inline-block; text-align: center; }
-    .fa-linkedin         { color: #0077b5; }
-    .fa-behance          { color: #1769ff; }
-    .fa-artstation       { color: #13aff0; }
-    .fa-tiktok           { color: #111; }
-    .fa-instagram        { color: #e4405f; }
-    .fa-medium           { color: #00ab6c; }
-    .hub-footer { margin-top: 3em; color:#999; font-size:0.95em;}
+    body { background: #f4f4f8; font-family: 'Segoe UI', Arial, sans-serif; margin:0; padding:2em; color:#213; }
+    h1 { font-size:2em; margin-bottom:0.7em; }
+    h2 { margin-top:2em; font-size:1.25em; color:#6931bf; font-weight:700;}
+    ul.links { list-style: none; margin:0 0 2em 0; padding:0; }
+    ul.links li { display:flex; align-items:center; margin:1.1em 0; }
+    a { color:#47287c; text-decoration:none; font-weight:500; margin-left:0.75em; font-size:1.08em;}
+    .icon { font-size:1.4em; min-width:36px; text-align:center;}
+    .fa-linkedin     {color: #0077b5;}
+    .fa-behance      {color: #1769ff;}
+    .fa-artstation   {color: #13aff0;}
+    .fa-tiktok       {color: #000;}
+    .fa-instagram    {color: #c13584;}
+    .fa-medium       {color: #00ab6c;}
+    .divider { margin:2em 0 1.1em 0; border-top:1.5px solid #e3e3ee;}
+    .footer { margin-top:2.7em; color:#999; font-size:0.98em; }
   </style>
 </head>
 <body>
-  <h1>Hamilton Almeida Junior — <span style="font-weight:400;">Portfólio & Conteúdo</span></h1>
+  <h1>Hamilton Almeida Junior — Portfólio & Redes</h1>
 
   <h2>Profissional</h2>
   <ul class="links">
@@ -68,13 +70,15 @@ Profissional com aparato completo para trabalho remoto e presencial (Curitiba e 
     </li>
     <li>
       <span class="icon"><i class="fab fa-tiktok"></i></span>
-      <a href="https://www.tiktok.com/@supersanidade" target="_blank">Supersanidade (@supersanidade) | TikTok</a>
+      <a href="https://www.tiktok.com/@supersanidade" target="_blank">Supersanidade | TikTok</a>
     </li>
     <li>
       <span class="icon"><i class="fab fa-instagram"></i></span>
-      <a href="https://www.instagram.com/cissolucoestecnologicas/" target="_blank">Cisso Soluções Tecnológicas | Instagram</a>
+      <a href="https://www.instagram.com/cissolucoestecnologicas/" target="_blank">Cisso Soluções | Instagram</a>
     </li>
   </ul>
+
+  <div class="divider"></div>
 
   <h2>Pessoal</h2>
   <ul class="links">
@@ -84,11 +88,11 @@ Profissional com aparato completo para trabalho remoto e presencial (Curitiba e 
     </li>
     <li>
       <span class="icon"><i class="fab fa-tiktok"></i></span>
-      <a href="https://www.tiktok.com/@retorneaomakako" target="_blank">Retorneaomakako (@retorneaomakako) | TikTok</a>
+      <a href="https://www.tiktok.com/@retorneaomakako" target="_blank">Retorneaomakako | TikTok</a>
     </li>
     <li>
       <span class="icon"><i class="fab fa-tiktok"></i></span>
-      <a href="https://www.tiktok.com/@hamthet" target="_blank">Hamthet (@hamthet) | TikTok</a>
+      <a href="https://www.tiktok.com/@hamthet" target="_blank">Hamthet | TikTok</a>
     </li>
     <li>
       <span class="icon"><i class="fab fa-medium"></i></span>
@@ -96,12 +100,11 @@ Profissional com aparato completo para trabalho remoto e presencial (Curitiba e 
     </li>
   </ul>
 
-  <div class="hub-footer">
-    &copy; 2025 Hamilton Almeida Junior &mdash; Todos os direitos reservados.
+  <div class="footer">
+    &copy; 2025 Hamilton Almeida Junior — Todos os direitos reservados.
   </div>
 </body>
 </html>
-
 
 ---
 
