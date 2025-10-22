@@ -3,7 +3,9 @@
 🇺🇸 English | 🇧🇷 [Leia em português aqui](README.md)
 
 **Design & Visual Communication Technologist** | Design Technologist • Systems Architect • Technical Writer
+
 [📄 Download Full Resume (PDF)](CURRICULO102025Geral_English.pdf)
+
 **English Communication Note:**
   
 - I am fully fluent and confident in written English (B2/C1 level).
