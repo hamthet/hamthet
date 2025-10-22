@@ -1,13 +1,31 @@
 # Hamilton “Hamthet” Almeida Junior
 
-**Tecnologista em Design & Comunicação Visual**  
-Disponível para contratos (CLT, PJ, Freelance) | horários flexíveis, remoto ou presencial.
+**Tecnologista em Design & Comunicação Visual**
+
+[📄 Download Currículo Completo (PDF)](CURRICULO102025Geral.pdf)
+
+
+#### 🏷️ Modalidades & Disponibilidade
+
+[![CLT](https://img.shields.io/badge/CLT-0d47a1?style=for-the-badge)](#)
+[![PJ](https://img.shields.io/badge/PJ-039be5?style=for-the-badge)](#)
+[![Freelance](https://img.shields.io/badge/Freelance-43a047?style=for-the-badge)](#)
+
+[![Horários Flexíveis](https://img.shields.io/badge/Horários%20Flexíveis-ffd600?style=for-the-badge)](#)
+[![Remoto](https://img.shields.io/badge/Remoto-26a69a?style=for-the-badge)](#)
+[![Presencial](https://img.shields.io/badge/Presencial-8e24aa?style=for-the-badge)](#)
+
+[![Curitiba](https://img.shields.io/badge/Curitiba-388e3c?style=for-the-badge)](#)
+[![Pinhais](https://img.shields.io/badge/Pinhais-c62828?style=for-the-badge)](#)
+[![Piraquara](https://img.shields.io/badge/Piraquara-3949ab?style=for-the-badge)](#)
+[![Colombo](https://img.shields.io/badge/Colombo-fbc02d?style=for-the-badge)](#)
+[![São José dos Pinhais](https://img.shields.io/badge/São%20José%20dos%20Pinhais-5d4037?style=for-the-badge)](#)
 
 ---
 
 ### 📌 Sobre
 
-Profissional com aparato completo para trabalho remoto e presencial (Curitiba e região metropolitana), com possibilidade de viagens e realocação. Ponte entre **tecnologia, design, processos e pessoas**; atuo nas seguintes frentes:
+Profissional com aparato completo para trabalho remoto e presencial, com possibilidade de viagens e realocação. Ponte entre **tecnologia, design, processos e pessoas**; atuo nas seguintes frentes:
 
 - **Coordenação técnica, operações e suporte corporativo:**  
   Soluções integradas de tecnologia, suporte N2, coordenação e processos.
@@ -25,86 +43,22 @@ Profissional com aparato completo para trabalho remoto e presencial (Curitiba e 
 
 ### 💡 Portfólio & Conteúdo
 
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <title>Hamilton Junior — Portfólio & Redes</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <!-- Font Awesome para ícones -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
-  <style>
-    body { background: #f4f4f8; font-family: 'Segoe UI', Arial, sans-serif; margin:0; padding:2em; color:#213; }
-    h1 { font-size:2em; margin-bottom:0.7em; }
-    h2 { margin-top:2em; font-size:1.25em; color:#6931bf; font-weight:700;}
-    ul.links { list-style: none; margin:0 0 2em 0; padding:0; }
-    ul.links li { display:flex; align-items:center; margin:1.1em 0; }
-    a { color:#47287c; text-decoration:none; font-weight:500; margin-left:0.75em; font-size:1.08em;}
-    .icon { font-size:1.4em; min-width:36px; text-align:center;}
-    .fa-linkedin     {color: #0077b5;}
-    .fa-behance      {color: #1769ff;}
-    .fa-artstation   {color: #13aff0;}
-    .fa-tiktok       {color: #000;}
-    .fa-instagram    {color: #c13584;}
-    .fa-medium       {color: #00ab6c;}
-    .divider { margin:2em 0 1.1em 0; border-top:1.5px solid #e3e3ee;}
-    .footer { margin-top:2.7em; color:#999; font-size:0.98em; }
-  </style>
-</head>
-<body>
-  <h1>Hamilton Almeida Junior — Portfólio & Redes</h1>
+#### 🌐 Profissional
 
-  <h2>Profissional</h2>
-  <ul class="links">
-    <li>
-      <span class="icon"><i class="fab fa-linkedin"></i></span>
-      <a href="https://www.linkedin.com/in/hamthet/" target="_blank">Hamilton Junior | LinkedIn</a>
-    </li>
-    <li>
-      <span class="icon"><i class="fab fa-behance"></i></span>
-      <a href="https://www.behance.net/hamthet" target="_blank">Hamilton Junior | Behance</a>
-    </li>
-    <li>
-      <span class="icon"><i class="fab fa-artstation"></i></span>
-      <a href="https://www.artstation.com/hamthet" target="_blank">ArtStation - Hamilton Almeida Junior</a>
-    </li>
-    <li>
-      <span class="icon"><i class="fab fa-tiktok"></i></span>
-      <a href="https://www.tiktok.com/@supersanidade" target="_blank">Supersanidade | TikTok</a>
-    </li>
-    <li>
-      <span class="icon"><i class="fab fa-instagram"></i></span>
-      <a href="https://www.instagram.com/cissolucoestecnologicas/" target="_blank">Cisso Soluções | Instagram</a>
-    </li>
-  </ul>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamthet/)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/hamthet)
+[![ArtStation](https://img.shields.io/badge/ArtStation-13aff0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/hamthet)
+[![TikTok Supersanidade](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@supersanidade)
+[![Cisso Soluções Instagram](https://img.shields.io/badge/Instagram-c13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cissolucoestecnologicas/)
 
-  <div class="divider"></div>
+#### 👤 Pessoal
 
-  <h2>Pessoal</h2>
-  <ul class="links">
-    <li>
-      <span class="icon"><i class="fab fa-instagram"></i></span>
-      <a href="https://www.instagram.com/hamthet/" target="_blank">Instagram (@hamthet)</a>
-    </li>
-    <li>
-      <span class="icon"><i class="fab fa-tiktok"></i></span>
-      <a href="https://www.tiktok.com/@retorneaomakako" target="_blank">Retorneaomakako | TikTok</a>
-    </li>
-    <li>
-      <span class="icon"><i class="fab fa-tiktok"></i></span>
-      <a href="https://www.tiktok.com/@hamthet" target="_blank">Hamthet | TikTok</a>
-    </li>
-    <li>
-      <span class="icon"><i class="fab fa-medium"></i></span>
-      <a href="https://hamthet.medium.com/" target="_blank">Medium</a>
-    </li>
-  </ul>
+[![Instagram](https://img.shields.io/badge/Instagram-c13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hamthet/)
+[![TikTok Retorneaomakako](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@retorneaomakako)
+[![TikTok Hamthet](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@hamthet)
+[![Medium](https://img.shields.io/badge/Medium-00ab6c?style=for-the-badge&logo=medium&logoColor=white)](https://hamthet.medium.com/)
 
-  <div class="footer">
-    &copy; 2025 Hamilton Almeida Junior — Todos os direitos reservados.
-  </div>
-</body>
-</html>
+
 
 ---
 
@@ -136,7 +90,7 @@ Fase 3: Posições de Longo Prazo
  - Diretor de Arte
  - Character Artist (Sênior)
  - Coordenador de Projetos Criativos
-Product Designer (Sênior)
+ - Product Designer (Sênior)
 
 ---
 
@@ -159,14 +113,17 @@ Entre em contato via [Instagram](https://www.instagram.com/hamthet/)
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+### 🚀 Tecnologia e Ferramentas
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=333)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff)
-![ZBrush](https://img.shields.io/badge/ZBrush-000000?style=flat-square&logo=data:image/svg+xml;base64,...&logoColor=fff)
+[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](#)
+[![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)](#)
+[![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)](#)
+[![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
+[![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](#)
+[![ZBrush](https://img.shields.io/badge/ZBrush-222?style=for-the-badge&logoColor=white)](#)
+[![Substance Painter](https://img.shields.io/badge/Substance%20Painter-e94e1b?style=for-the-badge&logo=adobe&logoColor=white)](#)
+
 
 _Gosto de explorar novas ferramentas e integrar tecnologia com criatividade em projetos digitais._
 
