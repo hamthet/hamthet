@@ -27,16 +27,12 @@
 ### 📌 Sobre
 
 Profissional com aparato completo para trabalho remoto e presencial, com possibilidade de viagens e realocação. Me vejo como uma ponte entre **tecnologia, design, processos e pessoas**; atuo nas seguintes frentes:
-
 - **Coordenação técnica, operações e suporte corporativo:**  
   Soluções integradas de tecnologia, suporte N2, coordenação e processos.
-
 - **Designer (UI/UX & Visual):**  
   Transformo necessidades de negócio em **soluções visuais** e **experiências de usuário intuitivas**. Interesse em projetos como UI Designer, Visual Designer ou Product Designer Júnior.
-
 - **Artista 3D & Escultor Digital:**  
   Especialista em character design. Disponível para vagas como Character Artist Jr., Modelador 3D e freelancer de escultura digital.
-
 - **Escritor (Técnico, Produto & Criativo):**  
   Síntese de conhecimento no apoio técnico, documentação, UX Writing, ensaios e pesquisa sobre filosofia, ciência e a condição humana.
 
@@ -74,33 +70,21 @@ Profissional com aparato completo para trabalho remoto e presencial, com possibi
 Almejo experiências que possam agregar em minha trajetória profissional:
 
 Fase 1: Posições de Curto Prazo
- 
 - Designer Gráfico (Júnior/Pleno)
- 
 - Motion Designer (Júnior)
- 
 - Artista 3D (Júnior)
- 
 - Designer de UI/UX (Júnior)
 
 Fase 2: Posições de Médio Prazo
- 
 - Modelador 3D (Foco em Personagens ou Hard Surface)
- 
 - Generalista 3D
- 
 - Solution Designer (Visual & Técnico)
- 
 - Technical Artist (Tech Artist)
 
 Fase 3: Posições de Longo Prazo
- 
 - Diretor de Arte
- 
 - Character Artist (Sênior)
- 
 - Coordenador de Projetos Criativos
- 
 - Product Designer (Sênior)
 
 ---
@@ -124,7 +108,7 @@ Entre em contato via [Instagram](https://www.instagram.com/hamthet/)
 
 ---
 
-### 🚀 Tecnologia e Ferramentas
+### 🚀 Tecnologia & Ferramentas
 
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](#)
 [![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)](#)
