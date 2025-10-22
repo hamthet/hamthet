@@ -25,7 +25,7 @@
 
 ### 📌 Sobre
 
-Profissional com aparato completo para trabalho remoto e presencial, com possibilidade de viagens e realocação. Ponte entre **tecnologia, design, processos e pessoas**; atuo nas seguintes frentes:
+Profissional com aparato completo para trabalho remoto e presencial, com possibilidade de viagens e realocação. Me vejo como uma ponte entre **tecnologia, design, processos e pessoas**; atuo nas seguintes frentes:
 
 - **Coordenação técnica, operações e suporte corporativo:**  
   Soluções integradas de tecnologia, suporte N2, coordenação e processos.
