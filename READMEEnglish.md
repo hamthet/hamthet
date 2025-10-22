@@ -95,6 +95,8 @@ Contact via [Instagram](https://www.instagram.com/hamthet/)
 
 <a href="mailto:juniorahamilton@gmail.com">Mail to juniorahamilton@gmail.com</a>
 
+---
+
 **_At the intersection of technology, design, and humanity, my mission is to transform complex challenges into visually elegant solutions and meaningful experiences._**
 
 ---
