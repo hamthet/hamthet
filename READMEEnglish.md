@@ -83,6 +83,8 @@ I seek experiences that add value to my professional path:
 - Creative Project Coordinator
 - Senior Product Designer
 
+---
+
 > "Technology is the brush of the future; design is the universal language."
 > _Turning complexity into beauty and accessibility is my purpose._
 
