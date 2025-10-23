@@ -17,9 +17,11 @@
 [![Full-time](https://img.shields.io/badge/Full--time-0d47a1?style=for-the-badge)](#)
 [![Contract](https://img.shields.io/badge/Contract-039be5?style=for-the-badge)](#)
 [![Freelance](https://img.shields.io/badge/Freelance-43a047?style=for-the-badge)](#)
+
 [![Flexible Hours](https://img.shields.io/badge/Flexible%20Hours-ffd600?style=for-the-badge)](#)
 [![Remote](https://img.shields.io/badge/Remote-26a69a?style=for-the-badge)](#)
 [![Onsite](https://img.shields.io/badge/Onsite-8e24aa?style=for-the-badge)](#)
+
 [![Curitiba](https://img.shields.io/badge/Curitiba-388e3c?style=for-the-badge)](#)
 [![Pinhais](https://img.shields.io/badge/Pinhais-c62828?style=for-the-badge)](#)
 [![Piraquara](https://img.shields.io/badge/Piraquara-3949ab?style=for-the-badge)](#)
@@ -48,18 +50,22 @@ I see myself as a bridge between **technology, design, processes, and people**, 
 ### 💡 Portfolio & Content
 
 #### 🌐 Professional
-[![Dribbble](https://img.shields.io/badge/Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/hamilton-a--junior)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamthet/)
+
+[![Dribbble](https://img.shields.io/badge/Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/hamthet)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/hamthet)
 [![ArtStation](https://img.shields.io/badge/ArtStation-13aff0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/hamthet)
-[![Supersanidade TikTok](https://img.shields.io/badge/Supersanidade_TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@supersanidade)
-[![CIS Tech Solutions Instagram](https://img.shields.io/badge/CIS_Tech_Solutions_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cissolucoestecnologicas/)
+
+[![TikTok Supersanidade](https://img.shields.io/badge/TikTok%20Supersanidade-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@supersanidade)
+[![CIS SolTec Instagram](https://img.shields.io/badge/CIS%20Soluções%20Tecnológicas-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cissolucoestecnologicas/)
 
 #### 👤 Personal
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hamthet/)
-[![Retorneaomakako TikTok](https://img.shields.io/badge/Retorneaomakako_TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@retorneaomakako)
-[![Hamthet TikTok](https://img.shields.io/badge/Hamthet_TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@hamthet)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://hamthet.medium.com/)
+
+[![TikTok Hamthet](https://img.shields.io/badge/TikTok%20Hamthet-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@hamthet)
+[![TikTok Retorneaomakako](https://img.shields.io/badge/TikTok%20Retorneaomakako-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@retorneaomakako)
+
+[![Medium](https://img.shields.io/badge/Medium-00ab6c?style=for-the-badge&logo=medium&logoColor=white)](https://hamthet.medium.com/)
 
 ---
 
