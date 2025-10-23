@@ -6,6 +6,8 @@
 
 [📄 Download Full Resume (PDF)](CURRICULO102025Geral_English.pdf)
 
+[![Linktree](https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/hamthet)
+
 **English Communication Note:**  
 - I am fully fluent and confident in written English (B2/C1 level).
 - Spoken communication may be inconsistent at times, especially under stress, due to neurodivergence or physiological factors.
