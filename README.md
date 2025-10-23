@@ -1,5 +1,4 @@
 # Hamilton "Hamthet" Almeida Junior
-
 🇧🇷 **Português** | [🇺🇸 **Read in English**](READMEEnglish.md)
 
 **Tecnologista em Design & Comunicação Visual** | Design Technologist • Systems Architect • Technical Writer
@@ -7,15 +6,12 @@
 [📄 Download Currículo Completo (PDF)](CURRICULO102025Geral_Portuguese.pdf)
 
 #### 🏷️ Modalidades & Disponibilidade
-
 [![CLT](https://img.shields.io/badge/CLT-0d47a1?style=for-the-badge)](#)
 [![PJ](https://img.shields.io/badge/PJ-039be5?style=for-the-badge)](#)
 [![Freelance](https://img.shields.io/badge/Freelance-43a047?style=for-the-badge)](#)
-
 [![Horários Flexíveis](https://img.shields.io/badge/Horários%20Flexíveis-ffd600?style=for-the-badge)](#)
 [![Remoto](https://img.shields.io/badge/Remoto-26a69a?style=for-the-badge)](#)
 [![Presencial](https://img.shields.io/badge/Presencial-8e24aa?style=for-the-badge)](#)
-
 [![Curitiba](https://img.shields.io/badge/Curitiba-388e3c?style=for-the-badge)](#)
 [![Pinhais](https://img.shields.io/badge/Pinhais-c62828?style=for-the-badge)](#)
 [![Piraquara](https://img.shields.io/badge/Piraquara-3949ab?style=for-the-badge)](#)
@@ -25,8 +21,8 @@
 ---
 
 ### 📌 Sobre
-
 Profissional com aparato completo para trabalho remoto e presencial, com possibilidade de viagens e realocação. Me vejo como uma ponte entre **tecnologia, design, processos e pessoas**; atuo nas seguintes frentes:
+
 - **Coordenação técnica, operações e suporte corporativo:**  
   Soluções integradas de tecnologia, suporte N2, coordenação e processos.
 - **Designer (UI/UX & Visual):**  
@@ -41,17 +37,14 @@ Profissional com aparato completo para trabalho remoto e presencial, com possibi
 ### 💡 Portfólio & Conteúdo
 
 #### 🌐 Profissional
-
+[![Dribbble](https://img.shields.io/badge/Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/hamilton-a--junior)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamthet/)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/hamthet)
 [![ArtStation](https://img.shields.io/badge/ArtStation-13aff0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/hamthet)
 [![TikTok Supersanidade](https://img.shields.io/badge/TikTok%20Supersanidade-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@supersanidade)
 [![CIS SolTec Instagram](https://img.shields.io/badge/CIS%20Soluções%20Tecnológicas-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cissolucoestecnologicas/)
 
-#### 👤 Pessoal
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hamthet/)
-[![TikTok Retorneaomakako](https://img.shields.io/badge/TikTok%20Retorneaomakako-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@retorneaomakako)
+#### 🎨 Pessoal
 [![TikTok Hamthet](https://img.shields.io/badge/TikTok%20Hamthet-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@hamthet)
 [![Medium](https://img.shields.io/badge/Medium-00ab6c?style=for-the-badge&logo=medium&logoColor=white)](https://hamthet.medium.com/)
 
@@ -60,9 +53,12 @@ Profissional com aparato completo para trabalho remoto e presencial, com possibi
 ### 🎯 O que procuro
 
 - **Oportunidades em tecnologia:**  
-  - Coordenador de Projetos Técnicos  
-  - Analista de Operações  
-  - Suporte Corporativo (N2)
+  
+- Coordenador de Projetos Técnicos  
+  
+- Analista de Operações  
+  
+- Suporte Corporativo (N2)
 - **Design (UI/UX, visual, produto - júnior)**
 - **Arte digital & 3D**
 - **Produção de conteúdo técnico, criativo e pesquisa**
@@ -91,16 +87,16 @@ Fase 3: Posições de Longo Prazo
 
 > "A tecnologia é o pincel do futuro, o design é a linguagem universal."
 > 
-> _Transformar o complexo em belo e acessível faz parte do meu propósito._
+> 
+_Transformar o complexo em belo e acessível faz parte do meu propósito._
 
 ---
 
 ### 📫 Conecte-se comigo
 
-Quer conversar sobre projetos, colaborações ou oportunidades?  
-Entre em contato via [Instagram](https://www.instagram.com/hamthet/)
-
-<a href="mailto:juniorahamilton@gmail.com">Enviar e‑mail para juniorahamilton@gmail.com</a>
+Quer conversar sobre projetos, colaborações ou oportunidades?
+  
+Entre em contato via [Instagram](https://www.instagram.com/hamthet/) ou <a href="mailto:juniorahamilton@gmail.com">Enviar e‑mail para juniorahamilton@gmail.com</a>
 
 ---
 
