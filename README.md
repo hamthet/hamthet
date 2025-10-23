@@ -5,6 +5,8 @@
 
 [📄 Download Currículo Completo (PDF)](CURRICULO102025Geral_Portuguese.pdf)
 
+[![Linktree](https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/hamthet)
+
 #### 🏷️ Modalidades & Disponibilidade
 [![CLT](https://img.shields.io/badge/CLT-0d47a1?style=for-the-badge)](#)
 [![PJ](https://img.shields.io/badge/PJ-039be5?style=for-the-badge)](#)
