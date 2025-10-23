@@ -9,9 +9,11 @@
 [![CLT](https://img.shields.io/badge/CLT-0d47a1?style=for-the-badge)](#)
 [![PJ](https://img.shields.io/badge/PJ-039be5?style=for-the-badge)](#)
 [![Freelance](https://img.shields.io/badge/Freelance-43a047?style=for-the-badge)](#)
+
 [![Horários Flexíveis](https://img.shields.io/badge/Horários%20Flexíveis-ffd600?style=for-the-badge)](#)
 [![Remoto](https://img.shields.io/badge/Remoto-26a69a?style=for-the-badge)](#)
 [![Presencial](https://img.shields.io/badge/Presencial-8e24aa?style=for-the-badge)](#)
+
 [![Curitiba](https://img.shields.io/badge/Curitiba-388e3c?style=for-the-badge)](#)
 [![Pinhais](https://img.shields.io/badge/Pinhais-c62828?style=for-the-badge)](#)
 [![Piraquara](https://img.shields.io/badge/Piraquara-3949ab?style=for-the-badge)](#)
@@ -37,15 +39,21 @@ Profissional com aparato completo para trabalho remoto e presencial, com possibi
 ### 💡 Portfólio & Conteúdo
 
 #### 🌐 Profissional
-[![Dribbble](https://img.shields.io/badge/Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/hamilton-a--junior)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamthet/)
+
+[![Dribbble](https://img.shields.io/badge/Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/hamthet)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/hamthet)
 [![ArtStation](https://img.shields.io/badge/ArtStation-13aff0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/hamthet)
+
 [![TikTok Supersanidade](https://img.shields.io/badge/TikTok%20Supersanidade-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@supersanidade)
 [![CIS SolTec Instagram](https://img.shields.io/badge/CIS%20Soluções%20Tecnológicas-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cissolucoestecnologicas/)
 
 #### 🎨 Pessoal
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hamthet/)
+
 [![TikTok Hamthet](https://img.shields.io/badge/TikTok%20Hamthet-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@hamthet)
+[![TikTok Retorneaomakako](https://img.shields.io/badge/TikTok%20Retorneaomakako-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@retorneaomakako)
+
 [![Medium](https://img.shields.io/badge/Medium-00ab6c?style=for-the-badge&logo=medium&logoColor=white)](https://hamthet.medium.com/)
 
 ---
@@ -88,7 +96,7 @@ Fase 3: Posições de Longo Prazo
 > "A tecnologia é o pincel do futuro, o design é a linguagem universal."
 > 
 > 
-_Transformar o complexo em belo e acessível faz parte do meu propósito._
+> _Transformar o complexo em belo e acessível faz parte do meu propósito._
 
 ---
 
