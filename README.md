@@ -1,7 +1,9 @@
 # Hamilton "Hamthet" Almeida Junior
 🇧🇷 **Português** | [🇺🇸 **Read in English**](READMEEnglish.md)
 
-**Tecnologista em Design & Comunicação Visual** | Design Technologist • Systems Architect • Technical Writer
+**Visual Communication Design Technologist | Solution Designer | Technical Writer**
+
+Designer de Soluções Visuais & Especialista em Tecnologia | _Foco em Identidade Visual, Escultura 3D e Comunicação Técnica._
 
 [📄 Download Currículo Completo (PDF)](CURRICULOPortuguese.pdf)
 
@@ -24,74 +26,36 @@
 
 ---
 
-### 📌 Sobre
-Profissional com aparato completo para trabalho remoto e presencial, com possibilidade de viagens e realocação. Me vejo como uma ponte entre **tecnologia, design, processos e pessoas**; atuo nas seguintes frentes:
+### 📌 Sobre Mim
+Sou um profissional híbrido que atua na **interseção entre tecnologia, arte e processos**. Com 8 anos de experiência integrando sistemas complexos, atuo como uma ponte entre necessidades de negócio e soluções visuais funcionais.
 
-- **Coordenação técnica, operações e suporte corporativo:**  
-  Soluções integradas de tecnologia, suporte N2, coordenação e processos.
-- **Designer (UI/UX & Visual):**  
-  Transformo necessidades de negócio em **soluções visuais** e **experiências de usuário intuitivas**. Interesse em projetos como UI Designer, Visual Designer ou Product Designer Júnior.
-- **Artista 3D & Escultor Digital:**  
-  Especialista em character design. Disponível para vagas como Character Artist Jr., Modelador 3D e freelancer de escultura digital.
-- **Escritor (Técnico, Produto & Criativo):**  
-  Síntese de conhecimento no apoio técnico, documentação, UX Writing, ensaios e pesquisa sobre filosofia, ciência e a condição humana.
+Possuo **infraestrutura completa para trabalho remoto**, com disponibilidade para viagens e realocação.
+
+**Minha missão:** Transformar desafios complexos em soluções visualmente elegantes e processos eficientes.
 
 ---
 
-### 💡 Portfólio & Conteúdo
+### 🚀 Frentes de Atuação
 
-#### 🌐 Profissional
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamthet/)
+#### 🛠️ Gestão & Tecnologia
+*Tradução de requisitos técnicos em processos eficientes.*
+* **Foco:** Coordenador de Projetos Técnicos, Analista de Operações, Suporte Corporativo (N2/N3).
+* **Expertise:** Gestão de ciclo de vida de projetos, diagnósticos de hardware/software e otimização de fluxos.
 
-[![Dribbble](https://img.shields.io/badge/Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/hamthet)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/hamthet)
-[![ArtStation](https://img.shields.io/badge/ArtStation-13aff0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/hamthet)
+#### 🎨 Design & Visual (UI/UX)
+*Criação de interfaces e marcas focadas em conversão.*
+* **Foco:** Visual Designer, UI Designer, Product Designer Jr.
+* **Expertise:** Identidade Visual, Prototipagem (Figma), Design para Marketplaces e Redes Sociais.
 
-[![TikTok Supersanidade](https://img.shields.io/badge/TikTok%20Supersanidade-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@supersanidade)
-[![CIS SolTec Instagram](https://img.shields.io/badge/CIS%20Soluções%20Tecnológicas-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cissolucoestecnologicas/)
+#### 🗿 Artista 3D & Escultura
+*Do concept ao modelo final pronto para produção.*
+* **Foco:** Character Artist Jr, Modelador 3D, Freelancer de Assets.
+* **Expertise:** ZBrush (Escultura Digital), Blender (Modelagem), Substance Painter (Textura PBR).
 
-#### 🎨 Pessoal
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hamthet/)
-
-[![TikTok Hamthet](https://img.shields.io/badge/TikTok%20Hamthet-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@hamthet)
-[![TikTok Retorneaomakako](https://img.shields.io/badge/TikTok%20Retorneaomakako-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@retorneaomakako)
-
-[![Medium](https://img.shields.io/badge/Medium-00ab6c?style=for-the-badge&logo=medium&logoColor=white)](https://hamthet.medium.com/)
-
----
-
-### 🎯 O que procuro
-
-- **Oportunidades em tecnologia:**  
-  
-- Coordenador de Projetos Técnicos  
-  
-- Analista de Operações  
-  
-- Suporte Corporativo (N2)
-- **Design (UI/UX, visual, produto - júnior)**
-- **Arte digital & 3D**
-- **Produção de conteúdo técnico, criativo e pesquisa**
-
-Almejo experiências que possam agregar em minha trajetória profissional:
-
-Fase 1: Posições de Curto Prazo
-- Designer Gráfico (Júnior/Pleno)
-- Motion Designer (Júnior)
-- Artista 3D (Júnior)
-- Designer de UI/UX (Júnior)
-
-Fase 2: Posições de Médio Prazo
-- Modelador 3D (Foco em Personagens ou Hard Surface)
-- Generalista 3D
-- Solution Designer (Visual & Técnico)
-- Technical Artist (Tech Artist)
-
-Fase 3: Posições de Longo Prazo
-- Diretor de Arte
-- Character Artist (Sênior)
-- Coordenador de Projetos Criativos
-- Product Designer (Sênior)
+#### ✍️ Escrita & Conteúdo
+*Síntese de complexidade em clareza.*
+* **Foco:** Technical Writer, UX Writer, Pesquisador.
+* **Expertise:** Documentação técnica, manuais visuais, ensaios sobre filosofia e ciência.
 
 ---
 
@@ -126,3 +90,25 @@ Entre em contato via [Instagram](https://www.instagram.com/hamthet/) ou <a href=
 [![Substance Painter](https://img.shields.io/badge/Substance%20Painter-e94e1b?style=for-the-badge&logo=adobe&logoColor=white)](#)
 
 _Gosto de explorar novas ferramentas e integrar tecnologia com criatividade em projetos digitais._
+
+---
+
+### 💡 Portfólio & Conteúdo
+
+#### 🌐 Profissional
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamthet/)
+
+[![Dribbble](https://img.shields.io/badge/Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/hamthet)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/hamthet)
+[![ArtStation](https://img.shields.io/badge/ArtStation-13aff0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/hamthet)
+
+[![TikTok Supersanidade](https://img.shields.io/badge/TikTok%20Supersanidade-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@supersanidade)
+[![CIS SolTec Instagram](https://img.shields.io/badge/CIS%20Soluções%20Tecnológicas-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cissolucoestecnologicas/)
+
+#### 🎨 Pessoal
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hamthet/)
+
+[![TikTok Hamthet](https://img.shields.io/badge/TikTok%20Hamthet-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@hamthet)
+[![TikTok Retorneaomakako](https://img.shields.io/badge/TikTok%20Retorneaomakako-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@retorneaomakako)
+
+[![Medium](https://img.shields.io/badge/Medium-00ab6c?style=for-the-badge&logo=medium&logoColor=white)](https://hamthet.medium.com/)
