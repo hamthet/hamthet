@@ -3,7 +3,7 @@
 
 **Tecnologista em Design & Comunicação Visual** | Design Technologist • Systems Architect • Technical Writer
 
-[📄 Download Currículo Completo (PDF)](CURRICULO102025Geral_Portuguese.pdf)
+[📄 Download Currículo Completo (PDF)](CURRICULOPortuguese.pdf)
 
 [![Linktree](https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/hamthet)
 
