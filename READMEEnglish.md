@@ -16,6 +16,7 @@
 ---
 
 #### 🏷️ Work Modes & Availability
+
 [![Full-time](https://img.shields.io/badge/Full--time-0d47a1?style=for-the-badge)](#)
 [![Contract](https://img.shields.io/badge/Contract-039be5?style=for-the-badge)](#)
 [![Freelance](https://img.shields.io/badge/Freelance-43a047?style=for-the-badge)](#)
@@ -32,20 +33,68 @@
 
 ---
 
-### 📌 About
-Full professional setup for remote and onsite work, open to travel and relocation (international, if needed).
-  
-I see myself as a bridge between **technology, design, processes, and people**, active in:
+### 📌 About Me
+I am a hybrid professional working at the **intersection of technology, art, and processes**. With 8 years of experience integrating complex systems, I act as a bridge between business needs and functional visual solutions.
 
-- **Technical coordination, operations, and corporate support:**  
-  Integrated technology solutions, N2 support, coordination, and process management.
-- **Designer (UI/UX & Visual):**  
-  Transforming business demands into **visual solutions** and **intuitive user experiences**.
-  Interested in UI Designer, Visual Designer, and Junior Product Designer roles.
-- **3D Artist & Digital Sculptor:**  
-  Focused on character design. Open to Character Artist Jr., 3D Modeler, or freelance digital sculptor opportunities.
-- **Writer (Technical, Product & Creative):**  
-  Knowledge synthesis for technical documentation, UX writing, essays, and research in philosophy, science, and the human condition.
+I possess a **complete infrastructure for remote work**, with availability for travel and relocation.
+
+**My mission:** To transform complex challenges into visually elegant solutions and efficient processes.
+
+---
+
+### 🎯 Areas of Expertise 
+#### 🛠️ Management & Technology
+*Translating technical requirements into efficient processes.*
+* **Focus:** Technical Project Coordinator, Operations Analyst, Corporate Support (L2/L3).
+* **Expertise:** Project lifecycle management, hardware/software diagnostics, and workflow optimization.
+
+#### 🎨 Design & Visual (UI/UX)
+*Creation of interfaces and brands focused on conversion.*
+* **Focus:** Visual Designer, UI Designer, Junior Product Designer.
+* **Expertise:** Visual Identity, Prototyping (Figma), Design for Marketplaces and Social Media.
+
+#### 🗿 3D Artist & Sculpting
+*From concept to final production-ready model.*
+* **Focus:** Junior Character Artist, 3D Modeler, Assets Freelancer.
+* **Expertise:** ZBrush (Digital Sculpting), Blender (Modeling), Substance Painter (PBR Texturing).
+
+#### ✍️ Writing & Content
+*Synthesizing complexity into clarity.*
+* **Focus:** Technical Writer, UX Writer, Researcher.
+* **Expertise:** Technical documentation, visual manuals, essays on philosophy and science.
+* 
+---
+
+> "Technology is the brush of the future; design is the universal language."
+> 
+> _Turning complexity into beauty and accessibility is my purpose._
+
+---
+
+### 📫 Contact me
+
+Want to talk projects, collaborations or opportunities?
+
+Contact via [Instagram](https://www.instagram.com/hamthet/) or <a href="mailto:juniorahamilton@gmail.com">Mail to juniorahamilton@gmail.com</a>
+
+---
+
+**_At the intersection of technology, design, and humanity, my mission is to transform complex challenges into visually elegant solutions and meaningful experiences._**
+
+---
+
+### 🚀 Technology & Tools
+
+[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](#)
+[![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)](#)
+[![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)](#)
+[![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
+[![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](#)
+[![ZBrush](https://img.shields.io/badge/ZBrush-E0662D?style=for-the-badge)](#)
+[![Substance Painter](https://img.shields.io/badge/Substance_Painter-EA6C4D?style=for-the-badge)](#)
+
+_I love exploring new tools and integrating technology with creativity in digital projects._
 
 ---
 
@@ -69,68 +118,3 @@ I see myself as a bridge between **technology, design, processes, and people**, 
 
 [![Medium](https://img.shields.io/badge/Medium-00ab6c?style=for-the-badge&logo=medium&logoColor=white)](https://hamthet.medium.com/)
 
----
-
-### 🎯 Opportunities
-
-- **Technology:**  
-- Technical Project Coordinator
-  
-- Operations Analyst
-  
-- Corporate Support (N2)
-- **Design (UI/UX, visual, product - junior)**
-- **Digital Art & 3D**
-- **Technical, creative, and research content production**
-
-I seek experiences that add value to my professional path:
-
-**Phase 1: Short-Term Positions**
-- Junior/Pleno Graphic Designer
-- Junior Motion Designer
-- Junior 3D Artist
-- Junior UI/UX Designer
-
-**Phase 2: Medium-Term Positions**
-- 3D Modeler (Focus: Character or Hard Surface)
-- Generalist 3D Artist
-- Solution Designer (Visual & Technical)
-- Technical Artist
-
-**Phase 3: Long-Term Positions**
-- Art Director
-- Senior Character Artist
-- Creative Project Coordinator
-- Senior Product Designer
-
----
-
-> "Technology is the brush of the future; design is the universal language."
-> 
-_Turning complexity into beauty and accessibility is my purpose._
-
----
-
-### 📫 Contact me
-
-Want to talk projects, collaborations or opportunities?
-Contact via [Instagram](https://www.instagram.com/hamthet/) or <a href="mailto:juniorahamilton@gmail.com">Mail to juniorahamilton@gmail.com</a>
-
----
-
-**_At the intersection of technology, design, and humanity, my mission is to transform complex challenges into visually elegant solutions and meaningful experiences._**
-
----
-
-### 🚀 Technology & Tools
-
-[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](#)
-[![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)](#)
-[![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)](#)
-[![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)](#)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
-[![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](#)
-[![ZBrush](https://img.shields.io/badge/ZBrush-E0662D?style=for-the-badge)](#)
-[![Substance Painter](https://img.shields.io/badge/Substance_Painter-EA6C4D?style=for-the-badge)](#)
-
-_I love exploring new tools and integrating technology with creativity in digital projects._
