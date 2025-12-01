@@ -2,7 +2,7 @@
 
 🇺🇸 English | 🇧🇷 [Leia em português aqui](README.md)
 
-**Design & Visual Communication Technologist** | Design Technologist • Systems Architect • Technical Writer
+**Design & Visual Communication Technologist** | Design Technologist • Solution Designer • Technical Writer
 
 [📄 Download Full Resume (PDF)](CURRICULOEnglish.pdf)
 
@@ -34,35 +34,28 @@
 ---
 
 ### 📌 About Me
-I am a hybrid professional working at the **intersection of technology, art, and processes**. With 8 years of experience integrating complex systems, I act as a bridge between business needs and functional visual solutions.
+I am a hybrid professional at the intersection of Technology, Art, and Processes.
 
-I possess a **complete infrastructure for remote work**, with availability for travel and relocation.
+With 8 years of experience in systems integration, I act as a bridge between business needs and functional visual solutions.
 
-**My mission:** To transform complex challenges into visually elegant solutions and efficient processes.
+Complete infrastructure for remote work (Contract/Full-time/Freelance).
 
 ---
 
-### 🎯 Areas of Expertise 
-#### 🛠️ Management & Technology
-*Translating technical requirements into efficient processes.*
-* **Focus:** Technical Project Coordinator, Operations Analyst, Corporate Support (L2/L3).
-* **Expertise:** Project lifecycle management, hardware/software diagnostics, and workflow optimization.
+### 🎯 SCOPE OF SERVICES
 
-#### 🎨 Design & Visual (UI/UX)
-*Creation of interfaces and brands focused on conversion.*
-* **Focus:** Visual Designer, UI Designer, Junior Product Designer.
-* **Expertise:** Visual Identity, Prototyping (Figma), Design for Marketplaces and Social Media.
+#### MANAGEMENT & TECH | Translating technical requirements into efficient processes. 
+Focus: Project Coordination, Corporate Support (L2), and Operations.
 
-#### 🗿 3D Artist & Sculpting
-*From concept to final production-ready model.*
-* **Focus:** Junior Character Artist, 3D Modeler, Assets Freelancer.
-* **Expertise:** ZBrush (Digital Sculpting), Blender (Modeling), Substance Painter (PBR Texturing).
+#### 🎨 DESIGN (UI/UX) | Interfaces and brands focused on conversion and clarity. 
+Focus: Visual Designer, UI Designer, and Marketplace Design.
 
-#### ✍️ Writing & Content
-*Synthesizing complexity into clarity.*
-* **Focus:** Technical Writer, UX Writer, Researcher.
-* **Expertise:** Technical documentation, visual manuals, essays on philosophy and science.
-* 
+#### 🗿 3D ARTIST | Knowledge of the entire production pipeline. Specialized in conceptual development and sculpting. 
+Focus: Character Design, 3D Modeling, and Assets (ZBrush/Blender).
+
+#### ✍️ WRITING & CONTENT | Synthesizing technical complexity into accessible language. 
+Technical focus: Technical Writer, Documentation, and Research. Creative focus: Essay writing, editing & analysis, and ghostwriting.
+
 ---
 
 > "Technology is the brush of the future; design is the universal language."
