@@ -28,35 +28,28 @@ Designer de Soluções Visuais & Especialista em Tecnologia | _Foco em Identidad
 ---
 
 ### 📌 Sobre Mim
-Sou um profissional híbrido que atua na **interseção entre tecnologia, arte e processos**. Com 8 anos de experiência integrando sistemas complexos, atuo como uma ponte entre necessidades de negócio e soluções visuais funcionais.
+Sou um profissional híbrido na interseção entre Tecnologia, Arte e Processos. 
 
-Possuo **infraestrutura completa para trabalho remoto**, com disponibilidade para viagens e realocação.
+Com 8 anos de experiência em integração de sistemas, atuo como ponte entre necessidades de negócio e soluções visuais funcionais. 
 
-**Minha missão:** Transformar desafios complexos em soluções visualmente elegantes e processos eficientes.
+Infraestrutura completa para trabalho remoto (PJ/CLT/Freelance).
 
 ---
 
-### 🚀 Frentes de Atuação
+### 🚀 Escopo de Serviços:
 
-#### 🛠️ Gestão & Tecnologia
-*Tradução de requisitos técnicos em processos eficientes.*
-* **Foco:** Coordenador de Projetos Técnicos, Analista de Operações, Suporte Corporativo (N2/N3).
-* **Expertise:** Gestão de ciclo de vida de projetos, diagnósticos de hardware/software e otimização de fluxos.
+#### 🛠️ GESTÃO & TECH | Tradução de requisitos técnicos em processos eficientes. 
+Foco: Coordenação de Projetos, Suporte Corporativo (N2) e Operações.
 
-#### 🎨 Design & Visual (UI/UX)
-*Criação de interfaces e marcas focadas em conversão.*
-* **Foco:** Visual Designer, UI Designer, Product Designer Jr.
-* **Expertise:** Identidade Visual, Prototipagem (Figma), Design para Marketplaces e Redes Sociais.
+#### 🎨 DESIGN (UI/UX) | Interfaces e marcas focadas em conversão e clareza. 
+Foco: Visual Designer, UI Designer e Design para Marketplaces.
 
-#### 🗿 Artista 3D & Escultura
-*Do concept ao modelo final pronto para produção.*
-* **Foco:** Character Artist Jr, Modelador 3D, Freelancer de Assets.
-* **Expertise:** ZBrush (Escultura Digital), Blender (Modelagem), Substance Painter (Textura PBR).
+#### 🗿 ARTISTA 3D | Conhecimento em todo o pipeline de produção. Especializado em desenvolvimento conceitual e escultura. 
+Foco: Character Design, Modelagem 3D e Assets (ZBrush/Blender).
 
-#### ✍️ Escrita & Conteúdo
-*Síntese de complexidade em clareza.*
-* **Foco:** Technical Writer, UX Writer, Pesquisador.
-* **Expertise:** Documentação técnica, manuais visuais, ensaios sobre filosofia e ciência.
+#### ESCRITA & CONTEÚDO | Síntese de complexidade técnica em linguagem acessível. 
+Foco técnico: Technical Writer, Documentação e Pesquisa. 
+Foco criativo: Redação de ensaios, revisão e análise de textos e ghostwriting.
 
 ---
 
