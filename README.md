@@ -47,7 +47,7 @@ Foco: Visual Designer, UI Designer e Design para Marketplaces.
 #### 🗿 ARTISTA 3D | Conhecimento em todo o pipeline de produção. Especializado em desenvolvimento conceitual e escultura. 
 Foco: Character Design, Modelagem 3D e Assets (ZBrush/Blender).
 
-#### ✒️ ESCRITA & CONTEÚDO | Síntese de complexidade técnica em linguagem acessível. 
+#### ✍️ ESCRITA & CONTEÚDO | Síntese de complexidade técnica em linguagem acessível. 
 Foco técnico: Technical Writer, Documentação e Pesquisa. 
 Foco criativo: Redação de ensaios, revisão e análise de textos e ghostwriting.
 
