@@ -5,7 +5,7 @@
 
 Designer de Soluções Visuais & Especialista em Tecnologia | _Foco em Identidade Visual, Escultura 3D e Comunicação Técnica._
 
-[📄 Download Currículo Completo (PDF)](CURRICULOPortuguese.pdf)
+[📄 Download Currículo Completo (PDF)](CURRICULO032026.pdf)
 
 [![Linktree](https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/hamthet)
 
