@@ -4,7 +4,7 @@
 
 **Design & Visual Communication Technologist** | Design Technologist • Solution Designer • Technical Writer
 
-[📄 Download Full Resume (PDF)](CURRICULOEnglish.pdf)
+[📄 Download Full Resume (PDF)](CURRICULO032026English.pdf)
 
 [![Linktree](https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/hamthet)
 
