@@ -5,7 +5,7 @@
 
 Profissional de tecnologia com **8 anos de experiência**. Especialista em integrar coordenação técnica, design de soluções e gestão de operações.
 
-[![Download Currículo Completo (PDF)](https://img.shields.io/badge/Download%20Currículo-PDF-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](CURRICULOPortuguese.pdf)
+[![Download Currículo Completo (PDF)](https://img.shields.io/badge/Download%20Currículo-PDF-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](CURRICULO032026.pdf)
 
 ---
 
