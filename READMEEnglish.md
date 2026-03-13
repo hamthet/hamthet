@@ -1,12 +1,11 @@
 # Hamilton "Hamthet" Almeida Junior
+[🇧🇷 Leia em Português](README.md) | 🇺🇸 **English**
 
-🇺🇸 English | 🇧🇷 [Leia em português aqui](README.md)
+**Visual Communication Design Technologist | Solution Designer | Technical Writer**
 
-**Design & Visual Communication Technologist** | Design Technologist • Solution Designer • Technical Writer
+Technology professional with **8 years of experience**. Specialist in integrating technical coordination, *solutions design*, and operations management.
 
-[📄 Download Full Resume (PDF)](CURRICULO032026English.pdf)
-
-[![Linktree](https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/hamthet)
+[![Download Full Resume (PDF)](https://img.shields.io/badge/Download%20Resume-PDF-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](CURRICULOEnglish.pdf)
 
 **English Communication Note:**  
 - I am fully fluent and confident in written English (B2/C1 level).
@@ -15,99 +14,62 @@
 
 ---
 
-#### 🏷️ Work Modes & Availability
+### 🏷️ Work Modes & Availability
 
-[![Full-time](https://img.shields.io/badge/Full--time-0d47a1?style=for-the-badge)](#)
-[![Contract](https://img.shields.io/badge/Contract-039be5?style=for-the-badge)](#)
-[![Freelance](https://img.shields.io/badge/Freelance-43a047?style=for-the-badge)](#)
+**Remote & Flexible** ![Remote](https://img.shields.io/badge/Remote-26a69a?style=for-the-badge&logo=remote&logoColor=white) ![Flexible Hours](https://img.shields.io/badge/Flexible%20Hours-ffd600?style=for-the-badge&logo=clock&logoColor=black)
 
-[![Flexible Hours](https://img.shields.io/badge/Flexible%20Hours-ffd600?style=for-the-badge)](#)
-[![Remote](https://img.shields.io/badge/Remote-26a69a?style=for-the-badge)](#)
-[![Onsite](https://img.shields.io/badge/Onsite-8e24aa?style=for-the-badge)](#)
+**Onsite / Hybrid** *(Curitiba and metropolitan area)* ![Curitiba](https://img.shields.io/badge/Curitiba-388e3c?style=for-the-badge&logo=map-pin&logoColor=white)  
+![Pinhais](https://img.shields.io/badge/Pinhais-c62828?style=for-the-badge&logo=map-pin&logoColor=white)  
+![Piraquara](https://img.shields.io/badge/Piraquara-3949ab?style=for-the-badge&logo=map-pin&logoColor=white)  
+![Colombo](https://img.shields.io/badge/Colombo-fbc02d?style=for-the-badge&logo=map-pin&logoColor=black)  
+![São José dos Pinhais](https://img.shields.io/badge/S%C3%A3o%20Jos%C3%A9%20dos%20Pinhais-5d4037?style=for-the-badge&logo=map-pin&logoColor=white)
 
-[![Curitiba](https://img.shields.io/badge/Curitiba-388e3c?style=for-the-badge)](#)
-[![Pinhais](https://img.shields.io/badge/Pinhais-c62828?style=for-the-badge)](#)
-[![Piraquara](https://img.shields.io/badge/Piraquara-3949ab?style=for-the-badge)](#)
-[![Colombo](https://img.shields.io/badge/Colombo-fbc02d?style=for-the-badge)](#)
-[![São José dos Pinhais](https://img.shields.io/badge/S%C3%A3o%20Jos%C3%A9%20dos%20Pinhais-5d4037?style=for-the-badge)](#)
+**Contract Type** ![Full-time](https://img.shields.io/badge/Full--time-0d47a1?style=for-the-badge&logo=handshake&logoColor=white) ![B2B / Contractor](https://img.shields.io/badge/Contractor-039be5?style=for-the-badge&logo=handshake&logoColor=white) ![Freelance](https://img.shields.io/badge/Freelance-43a047?style=for-the-badge&logo=freelancer&logoColor=white)
 
 ---
 
-### 📌 About Me
-I am a hybrid professional at the intersection of Technology, Art, and Processes.
+### 🚀 Professional Profile & Acting
 
-With 8 years of experience in systems integration, I act as a bridge between business needs and functional visual solutions.
+I have worked in administrative and technical roles, developing a broad view of processes to translate complex requirements into efficient systems. I combine **technical analysis for troubleshooting** with a creative **UI/UX** vision.
 
-Complete infrastructure for remote work (Contract/Full-time/Freelance).
-
----
-
-### 🎯 SCOPE OF SERVICES
-
-#### MANAGEMENT & TECH | Translating technical requirements into efficient processes. 
-Focus: Project Coordination, Corporate Support (L2), and Operations.
-
-#### 🎨 DESIGN (UI/UX) | Interfaces and brands focused on conversion and clarity. 
-Focus: Visual Designer, UI Designer, and Marketplace Design.
-
-#### 🗿 3D ARTIST | Knowledge of the entire production pipeline. Specialized in conceptual development and sculpting. 
-Focus: Character Design, 3D Modeling, and Assets (ZBrush/Blender).
-
-#### ✍️ WRITING & CONTENT | Synthesizing technical complexity into accessible language. 
-Technical focus: Technical Writer, Documentation, and Research. Creative focus: Essay writing, editing & analysis, and ghostwriting.
+**Key Experiences:**
+- **Support & Design Ops**: Management of over 1,500 service orders, focused on usability and cost reduction.
+- **Technical Communication**: Translation of complex information into manuals and clear documentation.
+- **Education**: Bachelor of Science in Biological Sciences (UFPR).
 
 ---
 
-> "Technology is the brush of the future; design is the universal language."
-> 
-> _Turning complexity into beauty and accessibility is my purpose._
+### 🛠️ Technology & Tools
+
+#### **Design & 3D**
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![ZBrush](https://img.shields.io/badge/ZBrush-E0662D?style=for-the-badge&logo=zbrush&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+#### **Management & Corporate Support**
+![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white)
+![TOTVS](https://img.shields.io/badge/TOTVS-ED1C24?style=for-the-badge&logo=totvs&logoColor=white)
+![LG Hub](https://img.shields.io/badge/LG%20Hub-005691?style=for-the-badge&logo=lghub&logoColor=white)
+![Troubleshooting](https://img.shields.io/badge/Troubleshooting-9E9E9E?style=for-the-badge&logo=tools&logoColor=white)
 
 ---
 
-### 📫 Contact me
+### 💡 Portfolio & Connections
 
-Want to talk projects, collaborations or opportunities?
+| Platform | Link |
+|------------|------|
+| [LinkedIn](https://www.linkedin.com/in/hamthet/) | Professional Profile |
+| [Behance](https://www.behance.net/hamthet) | Design Projects |
+| [Dribbble](https://dribbble.com/hamthet) | UI/UX Shots |
+| [Medium](https://hamthet.medium.com/) | Technical Articles |
+| [Instagram](https://www.instagram.com/hamthet/) | Visual Content |
 
-Contact via [Instagram](https://www.instagram.com/hamthet/) or <a href="mailto:juniorahamilton@gmail.com">Mail to juniorahamilton@gmail.com</a>
-
----
-
-**_At the intersection of technology, design, and humanity, my mission is to transform complex challenges into visually elegant solutions and meaningful experiences._**
-
----
-
-### 🚀 Technology & Tools
-
-[![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](#)
-[![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)](#)
-[![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)](#)
-[![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)](#)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
-[![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)](#)
-[![ZBrush](https://img.shields.io/badge/ZBrush-E0662D?style=for-the-badge)](#)
-[![Substance Painter](https://img.shields.io/badge/Substance_Painter-EA6C4D?style=for-the-badge)](#)
-
-_I love exploring new tools and integrating technology with creativity in digital projects._
+**📧 E-mail**: juniorahamilton@gmail.com
 
 ---
 
-### 💡 Portfolio & Content
-
-#### 🌐 Professional
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamthet/)
-
-[![Dribbble](https://img.shields.io/badge/Dribbble-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/hamthet)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/hamthet)
-[![ArtStation](https://img.shields.io/badge/ArtStation-13aff0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/hamthet)
-
-[![TikTok Supersanidade](https://img.shields.io/badge/TikTok%20Supersanidade-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@supersanidade)
-[![CIS SolTec Instagram](https://img.shields.io/badge/CIS%20Soluções%20Tecnológicas-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cissolucoestecnologicas/)
-
-#### 🎨 Personal
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hamthet/)
-
-[![TikTok Hamthet](https://img.shields.io/badge/TikTok%20Hamthet-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@hamthet)
-[![TikTok Retorneaomakako](https://img.shields.io/badge/TikTok%20Retorneaomakako-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@retorneaomakako)
-
-[![Medium](https://img.shields.io/badge/Medium-00ab6c?style=for-the-badge&logo=medium&logoColor=white)](https://hamthet.medium.com/)
-
+<div align="center">
+  <strong>🚀 Open to new opportunities and challenges! 🚀</strong>
+</div>
