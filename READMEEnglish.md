@@ -34,7 +34,7 @@ I have worked in administrative and technical roles, developing a broad view of 
 
 **Key Experiences:**
 - **Support & Design Ops**: Management of over 1,500 service orders, focused on usability and cost reduction.
-- **Technical Communication**: Translation of complex information into manuals and clear documentation.
+- **Technical Communication**: Translation of complex information into manuals and clear documentation., emphasizing **visual design** and **clarity**
 - **Education**: Bachelor of Science in Biological Sciences (UFPR).
 
 ---
