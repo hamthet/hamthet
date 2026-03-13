@@ -14,12 +14,8 @@ Profissional de tecnologia com **8 anos de experiência**. Especialista em integ
 **Remoto & Flexível**  
 ![Remoto](https://img.shields.io/badge/Remoto-26a69a?style=for-the-badge&logo=remote&logoColor=white) ![Horários Flexíveis](https://img.shields.io/badge/Horários%20Flexíveis-ffd600?style=for-the-badge&logo=clock&logoColor=black)
 
-**Presencial / Híbrido** *(Curitiba e região metropolitana)*  
+**Presencial / Híbrido**  
 ![Curitiba](https://img.shields.io/badge/Curitiba-388e3c?style=for-the-badge&logo=map-pin&logoColor=white)  
-![Pinhais](https://img.shields.io/badge/Pinhais-c62828?style=for-the-badge&logo=map-pin&logoColor=white)  
-![Piraquara](https://img.shields.io/badge/Piraquara-3949ab?style=for-the-badge&logo=map-pin&logoColor=white)  
-![Colombo](https://img.shields.io/badge/Colombo-fbc02d?style=for-the-badge&logo=map-pin&logoColor=black)  
-![São José dos Pinhais](https://img.shields.io/badge/S%C3%A3o%20Jos%C3%A9%20dos%20Pinhais-5d4037?style=for-the-badge&logo=map-pin&logoColor=white)
 
 **Contratação**  
 ![CLT](https://img.shields.io/badge/CLT-0d47a1?style=for-the-badge&logo=handshake&logoColor=white) ![PJ](https://img.shields.io/badge/PJ-039be5?style=for-the-badge&logo=handshake&logoColor=white) ![Freelance](https://img.shields.io/badge/Freelance-43a047?style=for-the-badge&logo=freelancer&logoColor=white)
@@ -46,11 +42,12 @@ Atuei em funções administrativas e técnicas, desenvolvendo visão ampla de pr
 ![ZBrush](https://img.shields.io/badge/ZBrush-E0662D?style=for-the-badge&logo=zbrush&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-#### **Gestão e Suporte Corporativo**
-![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white)
-![TOTVS](https://img.shields.io/badge/TOTVS-ED1C24?style=for-the-badge&logo=totvs&logoColor=white)
-![LG Hub](https://img.shields.io/badge/LG%20Hub-005691?style=for-the-badge&logo=lghub&logoColor=white)
-![Troubleshooting](https://img.shields.io/badge/Troubleshooting-9E9E9E?style=for-the-badge&logo=tools&logoColor=white)
+#### **Gestão Corporativa & Suporte de Operações**
+
+Plataformas de CRM, ERP e ticketing para gestão de atendimento, operações internas e resolução de incidentes N1/N2.  
+Ênfase em troubleshooting, documentação técnica e adaptação rápida a novos sistemas de gestão.
+
+[CRM & Ticketing](#) - [ERP Corporativo](#) - [Operações & Suporte](#) - [Troubleshooting](#)
 
 ---
 
