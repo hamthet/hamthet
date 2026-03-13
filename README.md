@@ -28,7 +28,7 @@ Atuei em funções administrativas e técnicas, desenvolvendo visão ampla de pr
 
 **Principais Experiências:**
 - **Suporte e Design Ops**: Gestão de mais de 1.500 ordens de serviço, foco em usabilidade e redução de custos
-- **Comunicação Técnica**: Tradução de informações complexas para manuais e documentação clara
+- **Comunicação Técnica**: Tradução de informações complexas para manuais e documentação clara, com foco em **design visual** e **clareza de comunicação**
 - **Formação Acadêmica**: Bacharelado em Ciências Biológicas pela UFPR
 
 ---
