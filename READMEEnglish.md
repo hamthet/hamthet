@@ -48,11 +48,12 @@ I have worked in administrative and technical roles, developing a broad view of 
 ![ZBrush](https://img.shields.io/badge/ZBrush-E0662D?style=for-the-badge&logo=zbrush&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-#### **Management & Corporate Support**
-![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white)
-![TOTVS](https://img.shields.io/badge/TOTVS-ED1C24?style=for-the-badge&logo=totvs&logoColor=white)
-![LG Hub](https://img.shields.io/badge/LG%20Hub-005691?style=for-the-badge&logo=lghub&logoColor=white)
-![Troubleshooting](https://img.shields.io/badge/Troubleshooting-9E9E9E?style=for-the-badge&logo=tools&logoColor=white)
+#### **Corporate Management & Operations Support**
+
+CRM, ERP, and ticketing platforms for customer service management, internal operations, and incident resolution (N1/N2 support).  
+Focus on troubleshooting, technical documentation, and quick adaptation to new management systems.
+
+[CRM & Ticketing](#) - [Enterprise Resource Planning](#) - [Operations & Support](#) - [Troubleshooting](#)
 
 ---
 
