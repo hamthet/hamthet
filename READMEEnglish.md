@@ -58,7 +58,7 @@ As a neurodivergent professional (ASD / Gifted), I excel in tasks that require:
 | **Systems Documentation** | UX Writing, technical manuals, onboarding, KB |
 | **Remote Technical Support** | N1/N2 Troubleshooting, asynchronous support, technical writing |
 | **Process Monitoring** | Data analysis, alerts, dashboards, CRM/ERP |
-| **Solutions Design **(Solution Designer) | Flow mapping, tool integration, automation |
+| **Solutions Design ** | Flow mapping, tool integration, automation |
 
 ---
 
