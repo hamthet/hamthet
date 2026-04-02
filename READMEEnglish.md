@@ -1,46 +1,71 @@
 # Hamilton "Hamthet" Almeida Junior
+
 [🇧🇷 Leia em Português](README.md) | 🇺🇸 **English**
 
-**Visual Communication Design Technologist | Solution Designer | Technical Writer**
+**Technical Writer & Solution Designer | Remote Technical Support • Translation & Localization • UX Writing • Systems Documentation | 8+ years of experience**
 
-Technology professional with **8 years of experience**. Specialist in integrating technical coordination, *solutions design*, and operations management.
+Technology professional with **8 years of experience**. Specialist in integrating technical coordination, solutions design, and operations management. **Neurodivergent professional (Autistic / Gifted)** — my differentiator is not speed, it is depth: I deliver exceptional quality, attention to detail, and systemic vision that few can offer.
 
-[![Download Full Resume (PDF)](https://img.shields.io/badge/Download%20Resume-PDF-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](CURRICULO032026English.pdf)
-
-**English Communication Note:**  
+**English Communication Note**:
 - I am fully fluent and confident in written English (B2/C1 level).
 - Spoken communication may be inconsistent at times, especially under stress, due to neurodivergence or physiological factors.
 - I prefer written interviews or asynchronous communication for maximum clarity and professionalism.
+
+[![Download Full Resume (PDF)](https://img.shields.io/badge/Download%20Resume-PDF-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](CURRICULO032026English.pdf)
 
 ---
 
 ### 🏷️ Work Modes & Availability
 
-**Remote & Flexible**  
+**Remote & Flexible**
+
 ![Remote](https://img.shields.io/badge/Remote-26a69a?style=for-the-badge&logo=remote&logoColor=white) ![Flexible Hours](https://img.shields.io/badge/Flexible%20Hours-ffd600?style=for-the-badge&logo=clock&logoColor=black)
 
-**Onsite / Hybrid**   
-![Curitiba](https://img.shields.io/badge/Curitiba-388e3c?style=for-the-badge&logo=map-pin&logoColor=white)  
+**Onsite / Hybrid**
 
-**Contract Type**  
+![Curitiba](https://img.shields.io/badge/Curitiba-388e3c?style=for-the-badge&logo=map-pin&logoColor=white)
+
+**Contract Type**
+
 ![Full-time](https://img.shields.io/badge/Full--time-0d47a1?style=for-the-badge&logo=handshake&logoColor=white) ![B2B / Contractor](https://img.shields.io/badge/Contractor-039be5?style=for-the-badge&logo=handshake&logoColor=white) ![Freelance](https://img.shields.io/badge/Freelance-43a047?style=for-the-badge&logo=freelancer&logoColor=white)
 
 ---
 
 ### 🚀 Professional Profile & Acting
 
-I have worked in administrative and technical roles, developing a broad view of processes to translate complex requirements into efficient systems. I combine **technical analysis for troubleshooting** with a creative **UI/UX** vision.
+I work at the intersection of **technical documentation**, **solutions design**, and **specialized remote support**. I combine technical analysis for troubleshooting with a creative **UI/UX** vision and clear technical writing.
 
-**Key Experiences:**
-- **Support & Design Ops**: Management of over 1,500 service orders, focused on usability and cost reduction.
-- **Technical Communication**: Translation of complex information into manuals and clear documentation., emphasizing **visual design** and **clarity**
-- **Education**: Bachelor of Science in Biological Sciences (UFPR).
+As a neurodivergent professional (ASD / Gifted), I excel in tasks that require:
+- **Deep focus** on complex processes
+- **Obsessive attention to detail** that goes unnoticed
+- **Standardization and organization** of technical information
+- **Systemic thinking** to connect dots that others do not see
+
+**Key Competencies**:
+- **Support & Design Ops**: Management of over 1,500 service orders, focused on usability and cost reduction
+- **Technical Communication**: Translation of complex information into manuals, clear documentation, and support materials
+- **Translation & Localization**: Experience adapting technical and cultural content
+- **Solutions Design**: Integration of tools, processes, and workflows
+- **Process Monitoring**: System tracking, alerts, and operations optimization
+
+---
+
+### 💼 Areas of Expertise
+
+| Area | Applicable Skills |
+|------|-------------------|
+| **Game Translation & Localization** | Technical proficiency + cultural sensitivity + clear writing |
+| **Systems Documentation** | UX Writing, technical manuals, onboarding, KB |
+| **Remote Technical Support** | N1/N2 Troubleshooting, asynchronous support, technical writing |
+| **Process Monitoring** | Data analysis, alerts, dashboards, CRM/ERP |
+| **Solutions Design **(Solution Designer) | Flow mapping, tool integration, automation |
 
 ---
 
 ### 🛠️ Technology & Tools
 
 #### **Design & 3D**
+
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -49,8 +74,7 @@ I have worked in administrative and technical roles, developing a broad view of 
 
 #### **Corporate Management & Operations Support**
 
-CRM, ERP, and ticketing platforms for customer service management, internal operations, and incident resolution (N1/N2 support).  
-Focus on troubleshooting, technical documentation, and quick adaptation to new management systems.
+CRM, ERP, and ticketing platforms for customer service management, internal operations, and incident resolution (N1/N2 support). Focus on troubleshooting, technical documentation, and quick adaptation to new management systems.
 
 [CRM & Ticketing](#) - [Enterprise Resource Planning](#) - [Operations & Support](#) - [Troubleshooting](#)
 
@@ -71,5 +95,9 @@ Focus on troubleshooting, technical documentation, and quick adaptation to new m
 ---
 
 <div align="center">
-  <strong>🚀 Open to new opportunities and challenges! 🚀</strong>
+
+**🚀 Open to new opportunities and challenges! 🚀**
+
+*Neurodivergent professional — quality over speed.*
+
 </div>
