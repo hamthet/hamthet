@@ -71,7 +71,7 @@ Como profissional neurodivergente (TEA / Altas Habilidades), me destaco em taref
 
 Plataformas de CRM, ERP e ticketing para gestão de atendimento, operações internas e resolução de incidentes N1/N2. Ênfase em troubleshooting, documentação técnica e adaptação rápida a novos sistemas de gestão.
 
-[CRM & Ticketing](#) - [ERP Corporativo](#) - [Operações & Suporte](#) - [Troubleshooting](#)
+[CRM & Ticketing] - [ERP Corporativo] - [Operações & Suporte] - [Troubleshooting]
 
 ---
 
