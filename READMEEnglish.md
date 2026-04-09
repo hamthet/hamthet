@@ -11,7 +11,7 @@ Technology professional with **8 years of experience**. Specialist in integratin
 - Spoken communication may be inconsistent at times, especially under stress, due to neurodivergence or physiological factors.
 - I prefer written interviews or asynchronous communication for maximum clarity and professionalism.
 
-[![Download Full Resume (PDF)](https://img.shields.io/badge/Download%20Resume-PDF-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](CURRICULO032026English.pdf)
+[![Download Full Resume (PDF)](https://img.shields.io/badge/Download%20Resume-PDF-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](CURRICULO042026English.pdf)
 
 ---
 
