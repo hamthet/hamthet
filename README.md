@@ -6,7 +6,7 @@
 
 Profissional de tecnologia com **8 anos de experiência**. Especialista em integrar coordenação técnica, design de soluções e gestão de operações. Profissional **neurodivergente (Autista / Altas Habilidades)** — meu diferencial não é velocidade, é profundidade: entrego com qualidade excepcional, atenção a detalhes e visão sistêmica que poucos oferecem.
 
-[![Download Currículo Completo (PDF)](https://img.shields.io/badge/Download%20Currículo-PDF-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](CURRICULO042026.pdf)
+[![Download Currículo Completo (PDF)](https://img.shields.io/badge/Download%20Currículo-PDF-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](CURRICULO042026Portugues.pdf)
 
 ---
 
