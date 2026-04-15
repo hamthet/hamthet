@@ -2,7 +2,7 @@
 
 🇧🇷 Português | [🇺🇸 Read in English](READMEEnglish.md)
 
-**Technical Writer & Solution Designer | Suporte Técnico Remoto • Tradução e Localização • UX Writing • Documentação de Sistemas | 8+ anos de experiência**
+**Technical Writer & Solution Designer | Suporte Técnico Remoto • Tradução e Localização • UX Writing • Documentação de Sistemas
 
 Profissional de tecnologia com **8 anos de experiência**. Especialista em integrar coordenação técnica, design de soluções e gestão de operações. Profissional **neurodivergente (Autista / Altas Habilidades)** — meu diferencial não é velocidade, é profundidade: entrego com qualidade excepcional, atenção a detalhes e visão sistêmica que poucos oferecem.
 
