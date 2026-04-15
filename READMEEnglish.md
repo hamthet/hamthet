@@ -7,7 +7,7 @@
 Technology professional with **8 years of experience**. Specialist in integrating technical coordination, solutions design, and operations management. **Neurodivergent professional (Autistic / Gifted)** — my differentiator is not speed, it is depth: I deliver exceptional quality, attention to detail, and systemic vision that few can offer.
 
 **English Communication Note**:
-- I am fully fluent and confident in written English (C1 level).
+- I am fluent and confident in written English (C1 level).
 - Spoken communication may be inconsistent at times, especially under stress, due to neurodivergence or physiological factors.
 - I prefer written interviews or asynchronous communication for maximum clarity and professionalism.
 
