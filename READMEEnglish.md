@@ -2,7 +2,7 @@
 
 [🇧🇷 Leia em Português](README.md) | 🇺🇸 **English**
 
-**Technical Writer & Solution Designer | Remote Technical Support • Translation & Localization • UX Writing • Systems Documentation**
+**Technical Writer & Solution Designer | Remote Technical Support - Systems & Operations Documentation - Process Monitoring**
 
 Technology professional with **8 years of experience**. Specialist in integrating technical coordination, solutions design, and operations management. **Neurodivergent professional (Autistic / Gifted)** — my differentiator is not speed, it is depth: I deliver exceptional quality, attention to detail, and systemic vision that few can offer.
 
