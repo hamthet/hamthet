@@ -53,7 +53,7 @@ Como profissional neurodivergente (TEA / Altas Habilidades), me destaco em taref
 | **Documentação de Sistemas** | UX Writing, manuais técnicos, onboarding, KB |
 | **Suporte Técnico Remoto** | Troubleshooting N1/N2, atendimento assíncrono, escrita técnica |
 | **Monitoramento de Processos** | Análise de dados, alertas, dashboards, CRM/ERP |
-| **Design de Soluções (Solution Designer)** | Mapeamento de fluxos, integração de ferramentas, automação |
+| **Design de Soluções (Solution Designer)** | Diagnóstico de requisitos, visualização técnica (2D/3D) e representação de processos complexos em formatos claros e acionáveis. |
 
 ---
 
