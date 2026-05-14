@@ -2,11 +2,13 @@
 
 🇧🇷 Português | [🇺🇸 Read in English](READMEEnglish.md)
 
-**Redator Técnico & Designer de Soluções | 	Suporte Técnico Remoto - Documentação de Sistemas e Operações - Monitoramento de Processos**
+**Assistente de Operações Técnicas · Suporte Técnico Remoto (SaaS) · Documentação & UX Writing · Back-Office**
 
-Profissional de tecnologia com **8 anos de experiência**. Especialista em integrar coordenação técnica, design de soluções e gestão de operações. Profissional **neurodivergente (Autista / Altas Habilidades)** — meu diferencial não é velocidade, é profundidade: entrego com qualidade excepcional, atenção a detalhes e visão sistêmica que poucos oferecem.
+Profissional com **8 anos de experiência em operações técnicas** em ambientes SaaS e segurança eletrônica, atuando com alta autonomia e baixa supervisão. Trabalho na interseção entre **suporte técnico remoto**, **gestão de incidentes** e **documentação de processos**, organizando informação para que times e usuários consigam agir com clareza.
 
-[![Download Currículo Completo (PDF)](https://img.shields.io/badge/Download%20Currículo-PDF-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](CURRICULO042026Portugues.pdf)
+Sou um profissional **neurodivergente (Autista / Altas Habilidades)** — meu diferencial não é velocidade, é profundidade: foco em qualidade, rastreabilidade e visão sistêmica.
+
+[Download Currículo Completo (PDF)](CURRICULO042026Portugues.pdf)
 
 ---
 
@@ -28,71 +30,71 @@ Profissional de tecnologia com **8 anos de experiência**. Especialista em integ
 
 ### 🚀 Perfil & Atuação Profissional
 
-Atuo na interseção entre **documentação técnica**, **design de soluções** e **suporte remoto especializado**. Combino análise técnica para troubleshooting com visão criativa de **UI/UX** e escrita técnica clara.
+Atuo em três eixos principais:
 
-Como profissional neurodivergente (TEA / Altas Habilidades), me destaco em tarefas que exigem:
-- **Foco profundo** em processos complexos
-- **Atenção obsessiva a detalhes** que passam despercebidos
-- **Padronização e organização** de informações técnicas
-- **Pensamento sistêmico** para conectar pontos que outros não veem
+- **Suporte Técnico Remoto (N1/N2)**  
+  Diagnóstico e resolução de incidentes em ambiente SaaS e sistemas de segurança, via chat e e-mail, com registro em **CRM/ticketing** e atenção a **SLAs** e **LGPD**.
 
-**Principais Competências:**
-- **Suporte e Design Ops**: Gestão de mais de 1.500 ordens de serviço, foco em usabilidade e redução de custos
-- **Comunicação Técnica**: Tradução de informações complexas para manuais, documentação clara e materiais de apoio
-- **Tradução & Localização**: Experiência em adaptação de conteúdo técnico e cultural
-- **Design de Soluções**: Integração de ferramentas, processos e fluxos de trabalho
-- **Monitoramento de Processos**: Acompanhamento de sistemas, alertas e otimização de operações
+- **Documentação Técnica & UX Writing**  
+  Criação e reestruturação de **manuais, bases de conhecimento (KB), FAQs e descrições técnicas**, com foco em clareza, hierarquia da informação e redução de dúvidas.
+
+- **Back-Office Operacional**  
+  Organização de **ordens de serviço, projetos e processos**, garantindo rastreabilidade, histórico técnico e comunicação assíncrona precisa entre times.
+
+Como profissional neurodivergente, me destaco em tarefas que exigem:
+
+- foco profundo em processos complexos  
+- atenção a detalhes que sustentam a confiabilidade  
+- padronização e organização de informação técnica  
+- pensamento sistêmico para conectar operações, pessoas e ferramentas  
 
 ---
 
-### 💼 Nichos de Atuação
+### 💼 Nichos em que posso contribuir
 
-| Área | Habilidades Aplicáveis |
-|------|------------------------|
-| **Tradução & Localização de Jogos** | Domínio técnico + sensibilidade cultural + escrita clara |
-| **Documentação de Sistemas** | UX Writing, manuais técnicos, onboarding, KB |
-| **Suporte Técnico Remoto** | Troubleshooting N1/N2, atendimento assíncrono, escrita técnica |
-| **Monitoramento de Processos** | Análise de dados, alertas, dashboards, CRM/ERP |
-| **Design de Soluções (Solution Designer)** | Diagnóstico de requisitos, visualização técnica (2D/3D) e representação de processos complexos em formatos claros e acionáveis. |
+| Área                       | Como atuo                                                                 |
+|---------------------------|---------------------------------------------------------------------------|
+| **Suporte Técnico Remoto** | Troubleshooting N1/N2, atendimento escrito, registro em CRM/ticket, SLAs |
+| **Back-Office / Operações** | Controle de OS, planilhas, fluxos operacionais, rastreabilidade          |
+| **Documentação de Sistemas** | UX Writing, manuais técnicos, onboarding, bases de conhecimento (KB)     |
+| **Prevenção a Fraude / Risco** | Registro e análise de incidentes, documentação de casos, protocolos     |
+| **Comunicação Técnica**   | Tradução de linguagem técnica para texto claro para usuários e times     |
 
 ---
 
 ### 🛠️ Tecnologia & Ferramentas
 
-#### **Design e 3D**
+#### Operações, Suporte e Documentação
 
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![ZBrush](https://img.shields.io/badge/ZBrush-E0662D?style=for-the-badge&logo=zbrush&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+- CRM e sistemas de ticket (ex.: Zendesk)  
+- Conceitos de ITIL aplicados à **gestão de incidentes**  
+- Planilhas para controle de projetos, OS e registros operacionais  
+- Ferramentas de escrita e documentação (Markdown, suites de texto, KB)
 
-#### **Gestão Corporativa & Suporte de Operações**
+#### Design (apoio à comunicação técnica)
 
-Plataformas de CRM, ERP e ticketing para gestão de atendimento, operações internas e resolução de incidentes N1/N2. Ênfase em troubleshooting, documentação técnica e adaptação rápida a novos sistemas de gestão.
-
-[CRM & Ticketing](#) - [ERP Corporativo](#) - [Operações & Suporte](#) - [Troubleshooting](#)
+- Adobe Photoshop, Adobe Illustrator  
+- Noções de Figma para wireframes e layouts informativos  
+- (Uso direcionado a **comunicação técnica**, não como agência de design)
 
 ---
 
 ### 💡 Portfólio & Conexões
 
-| Plataforma | Link |
-|------------|------|
-| [LinkedIn](https://www.linkedin.com/in/hamthet/) | Perfil Profissional |
-| [Behance](https://www.behance.net/hamthet) | Projetos de Design |
-| [Dribbble](https://dribbble.com/hamthet) | UI/UX Shots |
-| [Medium](https://hamthet.medium.com/) | Artigos Técnicos |
-| [Instagram](https://www.instagram.com/hamthet/) | Conteúdo Visual |
+| Plataforma   | Link                               |
+|-------------|------------------------------------|
+| [LinkedIn](https://www.linkedin.com/in/hamthet/) | Perfil profissional                         |
+| [Medium](https://hamthet.medium.com/)           | Artigos e reflexões técnicas                |
+| [Behance](https://www.behance.net/hamthet)      | Projetos visuais selecionados               |
 
-**📧 E-mail**: juniorahamilton@gmail.com
+**📧 E-mail**: [juniorahamilton@gmail.com](mailto:juniorahamilton@gmail.com)
 
 ---
 
 <div align="center">
 
-**🚀 Aberto a novas oportunidades e desafios! 🚀**
+**🚀 Aberto a oportunidades em suporte técnico remoto, back-office e documentação técnica.**
 
-*Profissional neurodivergente — qualidade acima de velocidade.*
+*Profissional neurodivergente — qualidade, rastreabilidade e clareza acima de velocidade.*
 
 </div>
