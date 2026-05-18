@@ -2,13 +2,13 @@
 
 🇧🇷 Português | [🇺🇸 Read in English](READMEEnglish.md)
 
-**Assistente de Operações Técnicas · Suporte Técnico Remoto (SaaS) · Documentação & UX Writing · Back-Office**
+**Analista de Suporte Técnico · Suporte Remoto N1/N2 · Back-Office · Operações Digitais**
 
-Profissional com **8 anos de experiência em operações técnicas** em ambientes SaaS e segurança eletrônica, atuando com alta autonomia e baixa supervisão. Trabalho na interseção entre **suporte técnico remoto**, **gestão de incidentes** e **documentação de processos**, organizando informação para que times e usuários consigam agir com clareza.
+Profissional com **8 anos de experiência em operações técnicas** em ambientes SaaS e segurança eletrônica, atuando com alta autonomia e baixa supervisão. Trabalho na interseção entre **suporte técnico remoto**, **gestão de incidentes** e **operações de back-office**, organizando informação para que times e usuários consigam agir com clareza.
 
-Sou um profissional **neurodivergente (Autista / Altas Habilidades)** — meu diferencial não é velocidade, é profundidade: foco em qualidade, rastreabilidade e visão sistêmica.
+Sou um profissional **neurodivergente (Autista / Altas Habilidades / TEA)** — meu diferencial não é velocidade, é profundidade: foco em qualidade, rastreabilidade e visão sistêmica.
 
-[Download Currículo Completo (PDF)](CURRICULO042026Portugues.pdf)
+[Download Currículo Completo (PDF)](CURRICULO052026Portugues.pdf)
 
 ---
 
@@ -33,32 +33,32 @@ Sou um profissional **neurodivergente (Autista / Altas Habilidades)** — meu di
 Atuo em três eixos principais:
 
 - **Suporte Técnico Remoto (N1/N2)**  
-  Diagnóstico e resolução de incidentes em ambiente SaaS e sistemas de segurança, via chat e e-mail, com registro em **CRM/ticketing** e atenção a **SLAs** e **LGPD**.
+  Diagnóstico e resolução de incidentes em ambiente SaaS e sistemas eletrônicos, via chat e e-mail, com registro em **CRM/ticketing**, atenção a **prazos acordados** e conformidade com **LGPD**.
 
-- **Documentação Técnica & UX Writing**  
-  Criação e reestruturação de **manuais, bases de conhecimento (KB), FAQs e descrições técnicas**, com foco em clareza, hierarquia da informação e redução de dúvidas.
-
-- **Back-Office Operacional**  
+- **Operações de Back-Office**  
   Organização de **ordens de serviço, projetos e processos**, garantindo rastreabilidade, histórico técnico e comunicação assíncrona precisa entre times.
+
+- **Comunicação Técnica**  
+  Adaptação de informações técnicas — fichas de produto, materiais de suporte e descrições operacionais — com clareza e hierarquia da informação para diferentes públicos.
 
 Como profissional neurodivergente, me destaco em tarefas que exigem:
 
-- foco profundo em processos complexos  
-- atenção a detalhes que sustentam a confiabilidade  
-- padronização e organização de informação técnica  
-- pensamento sistêmico para conectar operações, pessoas e ferramentas  
+- Foco profundo em processos complexos
+- Atenção a detalhes que sustentam a confiabilidade
+- Padronização e organização de informação técnica
+- Pensamento sistêmico para conectar operações, pessoas e ferramentas
 
 ---
 
 ### 💼 Nichos em que posso contribuir
 
-| Área                       | Como atuo                                                                 |
-|---------------------------|---------------------------------------------------------------------------|
-| **Suporte Técnico Remoto** | Troubleshooting N1/N2, atendimento escrito, registro em CRM/ticket, SLAs |
-| **Back-Office / Operações** | Controle de OS, planilhas, fluxos operacionais, rastreabilidade          |
-| **Documentação de Sistemas** | UX Writing, manuais técnicos, onboarding, bases de conhecimento (KB)     |
-| **Prevenção a Fraude / Risco** | Registro e análise de incidentes, documentação de casos, protocolos     |
-| **Comunicação Técnica**   | Tradução de linguagem técnica para texto claro para usuários e times     |
+| Área | Como atuo |
+|---|---|
+| **Suporte Técnico Remoto** | Troubleshooting N1/N2, atendimento escrito, registro em CRM/ticket, prazos acordados |
+| **Back-Office / Operações** | Controle de OS, planilhas, fluxos operacionais, rastreabilidade |
+| **Comunicação Técnica** | Adaptação de linguagem técnica para texto claro para usuários e times |
+| **Prevenção a Fraude / Risco** | Registro e análise de incidentes, documentação de casos, protocolos |
+| **Monitoramento de Chamados** | Acompanhamento de tickets, escalação estruturada, melhoria de processos |
 
 ---
 
@@ -66,26 +66,25 @@ Como profissional neurodivergente, me destaco em tarefas que exigem:
 
 #### Operações, Suporte e Documentação
 
-- CRM e sistemas de ticket (ex.: Zendesk)  
-- Conceitos de ITIL aplicados à **gestão de incidentes**  
-- Planilhas para controle de projetos, OS e registros operacionais  
-- Ferramentas de escrita e documentação (Markdown, suites de texto, KB)
+- CRM e sistemas de ticket (Zendesk — registro de incidentes, preenchimento de CRM, criação de macros)
+- Gestão de incidentes (referência ITIL)
+- Planilhas para controle de projetos, OS e registros operacionais
+- Ferramentas de escrita e documentação (Markdown, suites de texto)
 
 #### Design (apoio à comunicação técnica)
 
-- Adobe Photoshop, Adobe Illustrator  
-- Noções de Figma para wireframes e layouts informativos  
-- (Uso direcionado a **comunicação técnica**, não como agência de design)
+- Adobe Photoshop, Adobe Illustrator
+- *(Uso direcionado a comunicação técnica e materiais de suporte, não como agência de design)*
 
 ---
 
 ### 💡 Portfólio & Conexões
 
-| Plataforma   | Link                               |
-|-------------|------------------------------------|
-| [LinkedIn](https://www.linkedin.com/in/hamthet/) | Perfil profissional                         |
-| [Medium](https://hamthet.medium.com/)           | Artigos e reflexões técnicas                |
-| [Behance](https://www.behance.net/hamthet)      | Projetos visuais selecionados               |
+| Plataforma | Link |
+|---|---|
+| [LinkedIn](https://www.linkedin.com/in/hamthet/) | Perfil profissional |
+| [Medium](https://hamthet.medium.com/) | Artigos e reflexões técnicas |
+| [Behance](https://www.behance.net/hamthet) | Projetos visuais selecionados |
 
 **📧 E-mail**: [juniorahamilton@gmail.com](mailto:juniorahamilton@gmail.com)
 
@@ -93,8 +92,8 @@ Como profissional neurodivergente, me destaco em tarefas que exigem:
 
 <div align="center">
 
-**🚀 Aberto a oportunidades em suporte técnico remoto, back-office e documentação técnica.**
+**🚀 Aberto a oportunidades em suporte técnico remoto, back-office e operações digitais.**
 
-*Profissional neurodivergente — qualidade, rastreabilidade e clareza acima de velocidade.*
+*Profissional neurodivergente — qualidade, rastreabilidade e precisão acima de volume.*
 
 </div>
