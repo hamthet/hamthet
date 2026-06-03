@@ -4,7 +4,7 @@
 
 **Analista de Suporte Técnico · Suporte Remoto N1/N2 · Back-Office · Operações Digitais**
 
-Profissional com **8 anos de experiência em operações técnicas** em ambientes SaaS e segurança eletrônica, atuando com alta autonomia e baixa supervisão. Trabalho na interseção entre **suporte técnico remoto**, **gestão de incidentes** e **operações de back-office**, organizando informação para que times e usuários consigam agir com clareza.
+Profissional com **8 anos de experiência em operações técnicas de ciclo completo** — histórico em segurança eletrônica com atuação atual em ambiente SaaS, sempre com alta autonomia e baixa supervisão. Trabalho na interseção entre **suporte técnico remoto**, **gestão de incidentes** e **operações de back-office**, organizando informação para que times e usuários consigam agir com clareza.
 
 Sou um profissional **neurodivergente (Autista / Altas Habilidades / TEA)** — meu diferencial não é velocidade, é profundidade: foco em qualidade, rastreabilidade e visão sistêmica.
 
