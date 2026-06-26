@@ -4,7 +4,8 @@
 **Analista Júnior de Customer Onboarding · Sucesso do Cliente (CS) · Suporte & Back-Office Digital**
 
 Trabalho com atendimento ao cliente, suporte em canais digitais (chat e e-mail) e rotinas de onboarding há mais de 8 anos. Minha atuação combina a experiência prática na prospecção comercial, consultoria de expectativas e treinamento de usabilidade em uma empresa familiar de tecnologia com o suporte operacional a sistemas SaaS internacionais sob regras de alta conformidade e prevenção a fraudes (bet365 via Concentrix).
-Sou um profissional **neurodivergente (Autista / Altas Habilidades / TEA)**. Meu diferencial produtivo não é a velocidade, mas a profundidade: foco em qualidade, consistência de processos, rastreabilidade documental e raciocínio lógico.
+Sou um profissional **neurodivergente (Autista / Altas Habilidades)**. Meu diferencial produtivo não é a velocidade, mas a profundidade: foco em qualidade, consistência de processos, rastreabilidade documental e raciocínio lógico.
+
 Download Currículo Completo (PDF)
 
 ### 🏷️ Modalidades & Disponibilidade
