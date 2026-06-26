@@ -61,6 +61,9 @@ Como profissional neurodivergente, me destaco em tarefas que exigem:
 | **Behance** | Projetos visuais selecionados |
 **📧 E-mail**: juniorahamilton@gmail.com
 <div align="center">
+   
 **🚀 Aberto a oportunidades em Customer Onboarding, Sucesso do Cliente (CS), Suporte Digital por escrito (Chat/E-mail) e Back-office.**
+
 *Qualidade, organização documental e foco em processos lógicos acima de volume.*
+
 </div>
