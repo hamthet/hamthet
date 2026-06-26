@@ -9,8 +9,11 @@ Sou um profissional **neurodivergente (Autista / Altas Habilidades)**. Meu difer
 Download Currículo Completo (PDF)
 
 ### 🏷️ Modalidades & Disponibilidade
+
 **Remoto & Flexível**
+
 **Presencial / Híbrido**
+
 **Contratação**
 ### 🚀 Perfil & Atuação Profissional
 Atuo em quatro eixos principais de suporte e pós-venda:
