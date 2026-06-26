@@ -16,17 +16,23 @@ Download Currículo Completo (PDF)
 Atuo em quatro eixos principais de suporte e pós-venda:
  * **Customer Onboarding & Educação**
    Organização do fluxo de entrada de novos clientes, facilitação de usabilidade e treinamento prático de usuários em sistemas e aplicativos móveis, acelerando a percepção de valor do produto.
+
  * **Suporte Digital & Resolução de Conflitos**
    Diagnóstico e resolução de incidentes lógicos de acesso, usabilidade e transações por chat e e-mail, mantendo altos níveis de SLA e seguindo playbooks estruturados de atendimento.
+
  * **Prevenção a Fraudes & KYC (Know Your Customer)**
    Verificação cadastral de novos usuários, validação de documentação civil e identificação de riscos operacionais em estrita conformidade com a LGPD.
+
  * **Operações de Back-Office & Documentação**
    Organização de registros administrativos, controle de faturamento, relacionamento com distribuidores e elaboração de guias práticos de apoio ao usuário.
+
 Como profissional neurodivergente, me destaco em tarefas que exigem:
+
  * Foco profundo e persistência em processos detalhados e analíticos.
  * Detecção de desvios em dados, cadastros e fluxos de sistemas.
  * Estruturação de canais assíncronos e documentação organizada de incidentes.
  * Tradução de regras e dinâmicas complexas de produtos em manuais de fácil compreensão.
+
 ### 💼 Nichos em que posso contribuir
 | Área | Como atuo |
 |---|---|
