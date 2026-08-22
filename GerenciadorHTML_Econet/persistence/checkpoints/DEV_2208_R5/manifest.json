@@ -1,0 +1,38 @@
+{
+  "format": "gerenciadorhtml-dev-cumulative-v1",
+  "checkpoint": "DEV_2208_R5",
+  "algorithm": "AES-256-GCM",
+  "compression": "tar.xz",
+  "baseline_filename": "GerenciadorHTML_Econet_2108_V3.zip",
+  "baseline_sha256": "65be7acd4880065c1d402082e3eac05712faf1c70d889956485cd3b749dc7a0f",
+  "baseline_library_path": "/GerenciadorHTML_Econet/baselines/GerenciadorHTML_Econet_2108_V3.zip",
+  "delta_payload_filename": "GerenciadorHTML_Econet_DEV_2208_R5_CUMULATIVE.tar.xz",
+  "delta_payload_sha256": "e42226cc852c846351d87b73d0692bfe796b70772572a9f9e7fdadefd3f5afb4",
+  "patch_file": "PATCH_CUMULATIVE_DEV_2208_R5.diff",
+  "patch_sha256": "2cfbe968f11e1ff903e6dd64759e12091a34e90a7b2afd25d03232c78678380b",
+  "nonce_b64": "bpQyskjCZ0XOVIQj",
+  "aad_utf8": "GerenciadorHTML_Econet|DEV_2208_R5|cumulative-v1",
+  "chunks": [
+    "part_01.bin",
+    "part_02.bin",
+    "part_03.bin",
+    "part_04.bin"
+  ],
+  "patch_strip_level": 1,
+  "validation": "clean V3 + cumulative patch reconstructed R5 with full tree 347/347 files, 0 hash differences; audits 16/16, 26/26, 24/24, 37/37, 32/32; Node 20/20",
+  "approval_state": "DEV only; V4.2 remains last approved base",
+  "chunk_storage_encoding": "raw-bytes",
+  "chunk_sha256": {
+    "part_01.bin": "c68b8593cfbbe76956a11bc8be5c6d50bd24810cef8df66a17052126856f738c",
+    "part_02.bin": "6f7a91976795973884a478c910dbbd5044f17ed32bd1a3c51766dc1dc6c89d56",
+    "part_03.bin": "3fc4943922fa1412b90cc70566794a4fc8661ee33479656c5e61d576e9442a6b",
+    "part_04.bin": "95f762720ee46f5ff3b0c00deb12249d05c1806489a80f30373793b66e544f73"
+  },
+  "chunk_sizes": {
+    "part_01.bin": 5250,
+    "part_02.bin": 5250,
+    "part_03.bin": 5250,
+    "part_04.bin": 4358
+  },
+  "retrieval": "Fetch each GitHub blob/file as binary/base64, decode transport if necessary, concatenate raw bytes in chunks order, then AES-256-GCM decrypt using nonce/AAD."
+}
