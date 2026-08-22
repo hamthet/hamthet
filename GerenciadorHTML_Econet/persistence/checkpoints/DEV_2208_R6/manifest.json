@@ -1,0 +1,41 @@
+{
+  "format": "gerenciadorhtml-dev-cumulative-v1",
+  "checkpoint": "DEV_2208_R6",
+  "algorithm": "AES-256-GCM",
+  "compression": "tar.xz",
+  "baseline_filename": "GerenciadorHTML_Econet_2108_V3.zip",
+  "baseline_sha256": "65be7acd4880065c1d402082e3eac05712faf1c70d889956485cd3b749dc7a0f",
+  "baseline_library_path": "/GerenciadorHTML_Econet/baselines/GerenciadorHTML_Econet_2108_V3.zip",
+  "delta_payload_filename": "GerenciadorHTML_Econet_DEV_2208_R6_CUMULATIVE.tar.xz",
+  "delta_payload_sha256": "a4044aa7f8a91aa1e15ee38420034119e022679539b13c6b8354b3c95b75ee72",
+  "patch_file": "PATCH_CUMULATIVE_DEV_2208_R6.diff",
+  "patch_sha256": "a925021bf5a96df6a8f4a2d208b3a505415be5d2a7ee0885a0ea66da68e42842",
+  "nonce_b64": "DQc+/9Us3dyLO7hF",
+  "aad_utf8": "GerenciadorHTML_Econet|DEV_2208_R6|cumulative-v1",
+  "chunks": [
+    "part_01.bin",
+    "part_02.bin",
+    "part_03.bin",
+    "part_04.bin",
+    "part_05.bin"
+  ],
+  "patch_strip_level": 1,
+  "validation": "clean V3 + cumulative patch reconstructed R6 with full tree 352/352 files, 0 hash differences; audits 16/16, 26/26, 24/24, 37/37, 32/32, 26/26; Node 20/20 and 11/11",
+  "approval_state": "DEV only; V4.2 remains last approved base",
+  "chunk_storage_encoding": "raw-bytes",
+  "chunk_sha256": {
+    "part_01.bin": "87ab0995b8ad7900df9349dd080110bef2c8a46fcfa050caa39f76ba5cd96963",
+    "part_02.bin": "3e69efce2eb969f8d1097db3b380f3d5b3149d1d3c62025f37d07c1898daa426",
+    "part_03.bin": "69925da831b75d53bc8f625779f682985b09843fd8a8023d4078353334058283",
+    "part_04.bin": "ba0f08c01bac0d2388b13e3a97fde35c64a84f69a38ddc33ae604aeddf0114ab",
+    "part_05.bin": "3462963240c8c43bf010f35dacb0ad0f194fcdbf45c1681c9e6417006f01ad36"
+  },
+  "chunk_sizes": {
+    "part_01.bin": 5250,
+    "part_02.bin": 5250,
+    "part_03.bin": 5250,
+    "part_04.bin": 5250,
+    "part_05.bin": 3188
+  },
+  "retrieval": "Fetch each GitHub blob/file as binary/base64, decode transport if necessary, concatenate raw bytes in chunks order, then AES-256-GCM decrypt using nonce/AAD."
+}
