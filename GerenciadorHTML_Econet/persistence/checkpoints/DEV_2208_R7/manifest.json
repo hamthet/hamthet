@@ -1,0 +1,23 @@
+{
+  "format": "gerenciadorhtml-dev-cumulative-v1",
+  "checkpoint": "DEV_2208_R7",
+  "algorithm": "AES-256-GCM",
+  "compression": "tar.xz",
+  "baseline_filename": "GerenciadorHTML_Econet_2108_V3.zip",
+  "baseline_library_path": "/GerenciadorHTML_Econet/baselines/GerenciadorHTML_Econet_2108_V3.zip",
+  "baseline_sha256": "65be7acd4880065c1d402082e3eac05712faf1c70d889956485cd3b749dc7a0f",
+  "delta_payload_filename": "GerenciadorHTML_Econet_DEV_2208_R7_CUMULATIVE.tar.xz",
+  "delta_payload_sha256": "5cb3607dad467f34ba57dc0e6bb21258976af7ada9e7ec1667d50c2424f33f92",
+  "patch_file": "PATCH_CUMULATIVE_DEV_2208_R7.diff",
+  "patch_sha256": "2b44c25dcb5506c8c6760a4f2784a928e8bd0cd8b10f816ff10e28088557ce1d",
+  "patch_strip_level": 1,
+  "nonce_b64": "zHhmxVxN+G3YmvUy",
+  "aad_utf8": "GerenciadorHTML_Econet|DEV_2208_R7|cumulative-v1",
+  "cipher_sha256": "d719c29d5e45615e4b82646ab9fc4e9842988a41561b73588c2479aa3753f1e7",
+  "cipher_size": 26620,
+  "chunks": ["part_01.b64", "part_02.b64", "part_03.b64", "part_04.b64", "part_05.b64", "part_06.b64"],
+  "chunk_sizes": {"part_01.b64":6500,"part_02.b64":6500,"part_03.b64":6500,"part_04.b64":6500,"part_05.b64":6500,"part_06.b64":2996},
+  "chunk_sha256": {"part_01.b64":"f11d380838b252ec6a869b14db0dec05b525a2fcdf749b207cf9815b7a4778af","part_02.b64":"4b4b34088337769af97425ef896afceece5921d9c47270d2686207beb163a88e","part_03.b64":"12e2801201a7f84eee3781b0a1bb39526a817f04fff834a33c645feffff69e9a","part_04.b64":"43034a0ca18043569f2be3c72eb54ecced7370684e14df87b50bf70fbcd36132","part_05.b64":"ae2e5d7a41d4a1c158a59a9e212b73a35073d3e829dbcfb38b2e68fc6ab0592f","part_06.b64":"73e37705ac68fb8824b4ca33419c5854c86611541e7e4b5043eecdf7370be202"},
+  "validation": "clean V3 + cumulative patch reconstructed R7 with full tree 358/358 and 0 hash differences; audits R1 16/16, R2 26/26, R3 24/24, R4 37/37, R5 32/32, R6 26/26, R7 23/23; Node R5 20/20, R6 11/11, R7 7/7",
+  "approval_state": "DEV only; V4.2 remains last approved base"
+}
