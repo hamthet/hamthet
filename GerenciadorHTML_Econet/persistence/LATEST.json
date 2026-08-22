@@ -1,13 +1,13 @@
 {
-  "checkpoint": "DEV_2208_R9",
-  "manifest_path": "GerenciadorHTML_Econet/persistence/checkpoints/DEV_2208_R9/manifest.json",
+  "checkpoint": "DEV_2208_R10",
+  "manifest_path": "GerenciadorHTML_Econet/persistence/checkpoints/DEV_2208_R10/manifest.json",
   "branch": "gerenciadorhtml-econet-dev",
   "repository": "hamthet/hamthet",
   "baseline_filename": "GerenciadorHTML_Econet_2108_V3.zip",
   "baseline_library_path": "/GerenciadorHTML_Econet/baselines/GerenciadorHTML_Econet_2108_V3.zip",
   "baseline_sha256": "65be7acd4880065c1d402082e3eac05712faf1c70d889956485cd3b749dc7a0f",
-  "delta_payload_sha256": "5e6cdca7d2f9646b557738b58dc0248f751d32827febb8d6b0f71c8e7bde159f",
-  "patch_sha256": "f222d757d5671ad7117301e23dfa89a910bfc4aaccea6ec4925009eb9833ee86",
+  "delta_payload_sha256": "5cedc42a408105405e552baae2bae47280f8b56b7b825532f19bb90bb16d36f5",
+  "patch_sha256": "44097341b80cf46b014112a53b86f45a4632aa3d9e3bed5513724785bd072d49",
   "state": "DEV",
   "last_approved": "V4.2"
 }
