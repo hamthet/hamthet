@@ -1,0 +1,11 @@
+{
+  "checkpoint": "DEV_2208_R3",
+  "manifest_path": "GerenciadorHTML_Econet/persistence/manifest.json",
+  "branch": "gerenciadorhtml-econet-dev",
+  "repository": "hamthet/hamthet",
+  "baseline_filename": "GerenciadorHTML_Econet_2108_V3.zip",
+  "baseline_sha256": "65be7acd4880065c1d402082e3eac05712faf1c70d889956485cd3b749dc7a0f",
+  "checkpoint_sha256": "a2bc9c3a480cabb8ad906d365d44908aba76c4e0e6af95731db771eb6dd6ed23",
+  "state": "DEV",
+  "last_approved": "V4.2"
+}
