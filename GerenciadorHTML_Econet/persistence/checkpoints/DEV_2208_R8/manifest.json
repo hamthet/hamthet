@@ -1,0 +1,32 @@
+{
+  "format": "gerenciadorhtml-dev-cumulative-v1",
+  "checkpoint": "DEV_2208_R8",
+  "algorithm": "AES-256-GCM",
+  "compression": "tar.xz",
+  "baseline_filename": "GerenciadorHTML_Econet_2108_V3.zip",
+  "baseline_library_path": "/GerenciadorHTML_Econet/baselines/GerenciadorHTML_Econet_2108_V3.zip",
+  "baseline_sha256": "65be7acd4880065c1d402082e3eac05712faf1c70d889956485cd3b749dc7a0f",
+  "delta_payload_filename": "GerenciadorHTML_Econet_DEV_2208_R8_CUMULATIVE.tar.xz",
+  "delta_payload_sha256": "7deea8e6f995f54abe61da7f6fa38296d73546a630a78eb7577d58f0ca6de82f",
+  "patch_file": "PATCH_CUMULATIVE_DEV_2208_R8.diff",
+  "patch_sha256": "c3bbe3d5940e59d4bb06bc84b647ccb8f5f61386657643b07817afed34e3ca34",
+  "patch_strip_level": 1,
+  "nonce_b64": "a7CWgU1QJAOvlOJc",
+  "aad_utf8": "GerenciadorHTML_Econet|DEV_2208_R8|cumulative-v1",
+  "cipher_sha256": "e41cc6d5a9dc14b75457ba221dfa74d120dde64d248a5aa29449eda8c5393f5a",
+  "cipher_size": 28536,
+  "chunk_storage_encoding": "raw-bytes",
+  "chunks": ["part_01.bin","part_02.bin","part_03.bin","part_04.bin","part_05.bin","part_06.bin","part_07.bin"],
+  "chunk_sizes": {"part_01.bin":6500,"part_02.bin":1800,"part_03.bin":1800,"part_04.bin":4000,"part_05.bin":7000,"part_06.bin":7000,"part_07.bin":436},
+  "chunk_sha256": {
+    "part_01.bin":"ad586e384d3bed6c223e49dff3031f55f510dc8995431bfd303705bda459590e",
+    "part_02.bin":"86fbece89662832f4d3b85c6ec2cdb80d57a1155ceea28928865ec4d3094387b",
+    "part_03.bin":"f083b2dc49a1b4a836541450ee37f331b075fc1e3ff1f9eaa4e19b8fbb1a1fd9",
+    "part_04.bin":"be019104645b46531602239299cc387d2b446d0d0663155b2aec70cab46a1fe9",
+    "part_05.bin":"e409c5b6027fc43df51dba394304c95f002cdeb3defd8d9480059f5f0f95c0fc",
+    "part_06.bin":"d03f951f4c95b8e3278c5410f62392db2b6cd8c52011e4c8d85e73fdc42618b4",
+    "part_07.bin":"4be4ef8a9004b2693a09721c634395bac81eed7e30a0bc5033892e7f0f7409b4"
+  },
+  "validation": "clean V3 + cumulative patch reconstructed R8 with full tree 363/363 and 0 hash differences; audits R1 16/16, R2 26/26, R3 24/24, R4 37/37, R5 32/32, R6 26/26, R7 23/23, R8 22/22; Node R5 20/20, R6 11/11, R7 7/7, R8 7/7",
+  "approval_state": "DEV only; V4.2 remains last approved base"
+}
