@@ -1,0 +1,32 @@
+{
+  "format": "gerenciadorhtml-dev-cumulative-v1",
+  "checkpoint": "DEV_2208_R9",
+  "algorithm": "AES-256-GCM",
+  "compression": "tar.xz",
+  "baseline_filename": "GerenciadorHTML_Econet_2108_V3.zip",
+  "baseline_library_path": "/GerenciadorHTML_Econet/baselines/GerenciadorHTML_Econet_2108_V3.zip",
+  "baseline_sha256": "65be7acd4880065c1d402082e3eac05712faf1c70d889956485cd3b749dc7a0f",
+  "delta_payload_filename": "GerenciadorHTML_Econet_DEV_2208_R9_CUMULATIVE.tar.xz",
+  "delta_payload_sha256": "5e6cdca7d2f9646b557738b58dc0248f751d32827febb8d6b0f71c8e7bde159f",
+  "patch_file": "PATCH_CUMULATIVE_DEV_2208_R9.diff",
+  "patch_sha256": "f222d757d5671ad7117301e23dfa89a910bfc4aaccea6ec4925009eb9833ee86",
+  "patch_strip_level": 1,
+  "nonce_b64": "fwj0NIzQC9fkFy43",
+  "aad_utf8": "GerenciadorHTML_Econet|DEV_2208_R9|cumulative-v1",
+  "cipher_size": 29828,
+  "cipher_sha256": "4a24eac9b6488ff22ce99afbf669e346d54902694da55e3b9fbb4264078824b0",
+  "chunks": ["part_01.b64", "part_02.b64", "part_03.b64", "part_04.b64", "part_05.b64", "part_06.b64", "part_07_08.b64", "part_09_10.b64"],
+  "decoded_chunk_sizes": [3000, 3000, 3000, 3000, 3000, 3000, 6000, 5828],
+  "decoded_chunk_sha256": [
+    "ac1f91391819da95472fbc2ba722183edc8a0935301c9c7966291e38f8dea79a",
+    "3ef5d982f577716807284384944d910f8f97cfbbb98d0bda1b70faee26029b2f",
+    "d4bd40bc162e973a395d0c55388c342492ea189085aa117952bcf9a26bbe0952",
+    "8c702f9e814e4d002a0fc08a989b3418d69d62c3ecd1fc2b14fc4ce910f9342f",
+    "aaf7726d99c92e6a5065f7ac60a097802dc5d6abfccc70f600e7f285543ad799",
+    "0cfaa5ad4d9d8dde8fab57dcec1a6beedd2ed24af6ae9539b586d4cd70a13efa",
+    "6d11b37696aa16bf72b4f03fc0d716b0a522725f443fc4b742ba641722326734",
+    "a174ab2ca5ab83178fbc62fc5475a16b91b6fee9029ad0d4e1ffc07f32af4931"
+  ],
+  "validation": "clean V3 + cumulative patch reconstructed R9 with full tree 368/368 files and 0 SHA-256 differences; audits R1 16/16, R2 26/26, R3 24/24, R4 37/37, R5 32/32, R6 26/26, R7 23/23, R8 22/22, R9 15/15; Node R5 20/20, R6 11/11, R7 7/7, R8 7/7, R9 7/7",
+  "approval_state": "DEV only; V4.2 remains last approved base"
+}
