@@ -1,69 +1,86 @@
 # Hamilton “Hamthet” Almeida Junior
-🇧🇷 Português | 🇺🇸 Read in English
 
-**Analista Júnior de Customer Onboarding · Sucesso do Cliente (CS) · Suporte & Back-Office Digital**
+**Documentação Técnica · Conteúdo Informativo · Base de Conhecimento**  
+*Organização da informação · Back-office · Diagramação editorial · Ferramentas internas assistidas por IA*
 
-Trabalho com atendimento ao cliente, suporte em canais digitais (chat e e-mail) e rotinas de onboarding há mais de 8 anos. Minha atuação combina a experiência prática na prospecção comercial, consultoria de expectativas e treinamento de usabilidade em uma empresa familiar de tecnologia com o suporte operacional a sistemas SaaS internacionais sob regras de alta conformidade e prevenção a fraudes (bet365 via Concentrix).
-Sou um profissional **neurodivergente (Autista / Altas Habilidades)**. Meu diferencial produtivo não é a velocidade, mas a profundidade: foco em qualidade, consistência de processos, rastreabilidade documental e raciocínio lógico.
+Sou profissional de documentação e operações com foco em transformar conteúdos, registros e fluxos complexos em informação **clara, padronizada, rastreável e útil para consulta**.
 
-Download Currículo Completo (PDF)
+Atualmente trabalho com conteúdo técnico-regulatório na **Econet Editora**, estruturando e padronizando textos das áreas trabalhista, fiscal, federal e de comércio exterior. Minha atuação combina organização da informação, hierarquia documental, conferência de conteúdo e produção editorial.
 
-### 🏷️ Modalidades & Disponibilidade
+Também uso código como ferramenta de trabalho: prototipo **soluções internas e automações personalizadas com apoio de IA** para reduzir tarefas repetitivas, tratar documentos e hiperlinks, apoiar conferências e melhorar fluxos de produção.
 
-**Remoto & Flexível**
+> Não sigo uma stack como objetivo em si. Parto do problema e utilizo a tecnologia necessária para construir uma solução funcional, testável e documentada.
 
-**Presencial / Híbrido**
+## O que faço
 
-**Contratação**
-### 🚀 Perfil & Atuação Profissional
-Atuo em quatro eixos principais de suporte e pós-venda:
- * **Customer Onboarding & Educação**
-   Organização do fluxo de entrada de novos clientes, facilitação de usabilidade e treinamento prático de usuários em sistemas e aplicativos móveis, acelerando a percepção de valor do produto.
+- **Documentação técnica e conteúdo informativo** — estruturação, padronização e apresentação de informações para consulta e uso operacional.
+- **Organização da informação** — hierarquia documental, rastreabilidade, registros consultáveis e fidelidade às fontes.
+- **Base de conhecimento e documentação operacional** — materiais de apoio, orientações, conteúdo para onboarding e consulta interna.
+- **Back-office e controle documental** — triagem cadastral/documental, registro de casos, acompanhamento e escalonamento estruturado.
+- **Produção editorial** — diagramação aplicada a documentos e materiais informativos, com Photoshop, Illustrator e InDesign.
+- **Ferramentas internas e automação** — prototipação de soluções sob medida para problemas reais do fluxo de trabalho.
 
- * **Suporte Digital & Resolução de Conflitos**
-   Diagnóstico e resolução de incidentes lógicos de acesso, usabilidade e transações por chat e e-mail, mantendo altos níveis de SLA e seguindo playbooks estruturados de atendimento.
+## Desenvolvimento assistido por IA
 
- * **Prevenção a Fraudes & KYC (Know Your Customer)**
-   Verificação cadastral de novos usuários, validação de documentação civil e identificação de riscos operacionais em estrita conformidade com a LGPD.
+Meu GitHub funciona também como laboratório de soluções personalizadas. Não me posiciono como engenheiro de software: uso IA como parceira de implementação e aprendizado para transformar necessidades concretas em ferramentas utilizáveis.
 
- * **Operações de Back-Office & Documentação**
-   Organização de registros administrativos, controle de faturamento, relacionamento com distribuidores e elaboração de guias práticos de apoio ao usuário.
+Entre os tipos de projeto que venho desenvolvendo estão:
 
-Como profissional neurodivergente, me destaco em tarefas que exigem:
+- automações para tratamento e padronização de documentos;
+- verificadores e ferramentas de auditoria de conteúdo e hiperlinks;
+- gerenciadores de HTML e utilitários para sistemas legados;
+- pontes e integrações entre aplicações;
+- extensões e interfaces auxiliares;
+- coletores e organizadores de informação;
+- experimentos com fluxos multiagente e ferramentas baseadas em IA;
+- documentação técnica, histórico de versões, especificações e registros de decisão dos próprios projetos.
 
- * Foco profundo e persistência em processos detalhados e analíticos.
- * Detecção de desvios em dados, cadastros e fluxos de sistemas.
- * Estruturação de canais assíncronos e documentação organizada de incidentes.
- * Tradução de regras e dinâmicas complexas de produtos em manuais de fácil compreensão.
+Tenho trabalhado principalmente com **VBS/VBA, HTML e JavaScript**, além de integrações pontuais com outras tecnologias conforme a necessidade da solução. O foco não é demonstrar domínio de uma linguagem específica, mas **resolver problemas, testar, documentar e evoluir ferramentas**.
 
-### 💼 Nichos em que posso contribuir
-| Área | Como atuo |
-|---|---|
-| **Customer Onboarding** | Treinamento de usuários, acompanhamento pós-venda, checklists de adoção de produto e alinhamento de expectativas |
-| **Suporte Digital N1/N2** | Diagnóstico de problemas de acesso e usabilidade por chat/e-mail com ferramentas de ticket (Zendesk) |
-| **Prevenção a Fraudes & KYC** | Validação documental, identificação de riscos cadastrais e auditoria interna em conformidade com a LGPD |
-| **Back-Office & Operações** | Organização administrativa, controle de registros de contas, faturamento de serviços e cotações |
-| **Design de Apoio** | Criação de guias visuais, infográficos e materiais visuais de suporte ao autoatendimento no Photoshop/Illustrator |
-### 🛠️ Tecnologia & Ferramentas
-#### Operações, Suporte e Documentação
- * CRM e sistemas de ticket (Zendesk — atendimento digital, uso de macros e acompanhamento de SLAs).
- * Planilhas eletrônicas para controle administrativo de contas, faturamento e registros de pós-venda.
- * Escrita estruturada e documentação de processos utilizando Markdown e suítes de escritório.
- * Em desenvolvimento: configuração de plataformas de CS e CRM (Salesforce, HubSpot).
-#### Design (apoio visual ao suporte)
- * Adobe Photoshop, Adobe Illustrator.
- * *(Uso direcionado exclusivamente à criação de guias passo a passo, infográficos de usabilidade e materiais informativos para o cliente final)*.
-### 💡 Portfólio & Conexões
-| Plataforma | Link |
-|---|---|
-| **LinkedIn** | Perfil profissional |
-| **Medium** | Artigos e reflexões técnicas |
-| **Behance** | Projetos visuais selecionados |
-**📧 E-mail**: juniorahamilton@gmail.com
-<div align="center">
-   
-**🚀 Aberto a oportunidades em Customer Onboarding, Sucesso do Cliente (CS), Suporte Digital por escrito (Chat/E-mail) e Back-office.**
+## Trajetória
 
-*Qualidade, organização documental e foco em processos lógicos acima de volume.*
+### Econet Editora — Diagramador
+**Documentação técnica · Conteúdo regulatório · Padronização documental**  
+*jul/2026 – atual*
 
-</div>
+Estruturação, formatação e conferência de conteúdo técnico-regulatório, com desenvolvimento de ferramentas internas e automações assistidas por IA como apoio ao fluxo documental.
+
+### bet365 via Concentrix — Customer Support Representative
+**Suporte N1 · Back-office · KYC · Zendesk**  
+*dez/2025 – jul/2026*
+
+Suporte por chat e e-mail em operação internacional, triagem cadastral e documental, registro e rastreabilidade de casos e escalonamento estruturado de demandas.
+
+### Grupos Sentinela — Administrativo, Operações e Suporte Técnico
+**Microempresa familiar de segurança eletrônica**  
+*2017 – 2025*
+
+Controle de aproximadamente 300 projetos e ordens de serviço por ano, organização de registros, produção de materiais informativos, onboarding, atendimento digital e suporte técnico.
+
+## Interesses profissionais
+
+Tenho interesse especialmente em oportunidades relacionadas a:
+
+- Documentação Técnica
+- Conteúdo Informativo e Operacional
+- Base de Conhecimento / Knowledge Base
+- Gestão do Conhecimento
+- Controle Documental
+- Back-office
+- Operações com forte componente documental
+- Redação Técnica
+
+## Ferramentas e competências
+
+**Documentação e operações:** Zendesk · Markdown · planilhas · suites de escritório · organização de registros  
+**Produção editorial:** Adobe Photoshop · Illustrator · InDesign  
+**Automação e prototipação:** VBS/VBA · HTML · JavaScript · Git/GitHub · IA generativa  
+**Idiomas:** Português nativo · Inglês B2
+
+---
+
+**PCD — TEA (Autismo) | Altas Habilidades/Superdotação**
+
+📍 Curitiba – PR  
+💼 [LinkedIn](https://www.linkedin.com/in/hamthet/)  
+📧 juniorahamilton@gmail.com
