@@ -5,7 +5,7 @@
 
 Sou profissional de documentação e operações com foco em transformar conteúdos, registros e fluxos complexos em informação **clara, padronizada, rastreável e útil para consulta**.
 
-Atualmente trabalho com conteúdo técnico-regulatório na **Econet Editora**, estruturando e padronizando textos das áreas trabalhista, fiscal, federal e de comércio exterior. Minha atuação combina organização da informação, hierarquia documental, conferência de conteúdo e produção editorial.
+Minha experiência na **Econet Editora** inclui estruturação e padronização de conteúdo técnico-regulatório das áreas trabalhista, fiscal, federal e de comércio exterior. Combino organização da informação, hierarquia documental, conferência de conteúdo e produção editorial.
 
 Também uso código como ferramenta de trabalho: prototipo **soluções internas e automações personalizadas com apoio de IA** para reduzir tarefas repetitivas, tratar documentos e hiperlinks, apoiar conferências e melhorar fluxos de produção.
 
@@ -41,21 +41,18 @@ Tenho trabalhado principalmente com **VBS/VBA, HTML e JavaScript**, além de int
 
 ### Econet Editora — Diagramador
 **Documentação técnica · Conteúdo regulatório · Padronização documental**  
-*jul/2026 – atual*
 
 Estruturação, formatação e conferência de conteúdo técnico-regulatório, com desenvolvimento de ferramentas internas e automações assistidas por IA como apoio ao fluxo documental.
 
 ### bet365 via Concentrix — Customer Support Representative
 **Suporte N1 · Back-office · KYC · Zendesk**  
-*dez/2025 – jul/2026*
 
 Suporte por chat e e-mail em operação internacional, triagem cadastral e documental, registro e rastreabilidade de casos e escalonamento estruturado de demandas.
 
 ### Grupos Sentinela — Administrativo, Operações e Suporte Técnico
 **Microempresa familiar de segurança eletrônica**  
-*2017 – 2025*
 
-Controle de aproximadamente 300 projetos e ordens de serviço por ano, organização de registros, produção de materiais informativos, onboarding, atendimento digital e suporte técnico.
+Organização de registros de projetos e ordens de serviço, acompanhamento de propostas, prazos, compras e faturamento; produção de materiais de orientação, atendimento digital e suporte técnico.
 
 ## Interesses profissionais
 
@@ -75,12 +72,14 @@ Tenho interesse especialmente em oportunidades relacionadas a:
 **Documentação e operações:** Zendesk · Markdown · planilhas · suites de escritório · organização de registros  
 **Produção editorial:** Adobe Photoshop · Illustrator · InDesign  
 **Automação e prototipação:** VBS/VBA · HTML · JavaScript · Git/GitHub · IA generativa  
-**Idiomas:** Português nativo · Inglês B2
+Tenho facilidade para aprender novos sistemas CRM e ERP a partir dos processos e das necessidades de trabalho.
+
+**Idiomas:** Português nativo · Inglês intermediário (B2)
 
 ---
 
 **PCD — TEA (Autismo) | Altas Habilidades/Superdotação**
 
-📍 Curitiba – PR  
+📍 São José dos Pinhais – PR  
 💼 [LinkedIn](https://www.linkedin.com/in/hamthet/)  
 📧 juniorahamilton@gmail.com
