@@ -54,6 +54,12 @@ Suporte por chat e e-mail em operação internacional, triagem cadastral e docum
 
 Organização de registros de projetos e ordens de serviço, acompanhamento de propostas, prazos, compras e faturamento; produção de materiais de orientação, atendimento digital e suporte técnico.
 
+## Portfólio de design
+
+[Apresentação profissional de design gráfico](https://hamthet.com.br/portfolio-design/) — seleção de peças gráficas, campanhas de produtos, apresentações e composição visual. A página oferece apresentações em português e inglês para download.
+
+O estudo visual de e-mail está identificado como conceito desenvolvido com apoio de IA; não representa campanha enviada nem resultados comerciais comprovados.
+
 ## Interesses profissionais
 
 Tenho interesse especialmente em oportunidades relacionadas a:
